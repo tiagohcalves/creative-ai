@@ -1,0 +1,2920 @@
+;source;id;title;objectives
+0;skyrim;55074;A Blade in the Dark;"Talk to Delphine 
+Locate the dragon burial site 
+Kill the Dragon Sahloknir 
+Return to Delphine"
+1;skyrim;55212;A Chance Arrangement;"Talk to Brynjolf about joining the Thieves Guild 
+Meet Brynjolf during daytime 
+Steal Madesi's ring from his strongbox 
+Plant Madesi's ring 
+Speak to Brynjolf"
+2;skyrim;51114;A Cornered Rat;"Talk to Brynjolf 
+Search the Ratway for Esbern's hideout 
+Find Esbern in the Ratway Warrens 
+Talk to Esbern"
+3;skyrim;52017;A Daedra's Best Friend;"Talk with Barbas 
+Travel with Barbas to the shrine of Clavicus Vile 
+Join Barbas outside Haemar's Shame 
+Retrieve the Rueful Axe with Barbas 
+Return to the shrine of Clavicus Vile with Barbas and the Rueful Axe 
+Give the Rueful Axe to Clavicus Vile or kill Barbas with the Rueful Axe 
+Speak to Clavicus Vile"
+4;skyrim;63392;A False Front (Imperials);"Find the Stormcloak courier 
+Retrive the Stormcloak courier's package 
+Bring the documents to Legate Rikke 
+Bring the forged documents to Frorkmar Banner-Torn"
+5;skyrim;75581;A False Front (Stormcloaks);"Find the Imperial courier 
+Retrieve the Imperial courier's package 
+Bring the documents to Galmar Stone-Fist 
+Bring the forged documents to Legate Taurinus Duilis"
+6;skyrim;117461;A Few Words with You;"Talk to the indebted person about the debtor 
+Tell the debtor that the indebted person is taken care of"
+7;skyrim;95283;A Love Beyond Death;Kill Lu'ah Al-Skaven in Ansilvund
+8;skyrim;125063;A Lovely Letter;"Deliver Faendal's (If the Dragonborn started the quest with Sven: ""Sven's"") letter to Camilla 
+Tell Sven about Faendal's (If the Dragonborn started the quest with Sven: ""Sven's"") letter (optional) 
+Talk to Faendal/Sven"
+9;skyrim;58910;A Night to Remember (Skyrim);"Participate in a drinking contest with Sam Guevenne 
+Find Sam Guevenne 
+Find the staff 
+Help clean up the Temple of Dibella (if the priestess was not successfully persuaded or bribed) 
+Apologize to the Priestess of Dibella (if the priestess was not successfully persuaded or bribed) 
+Ask about Sam and the staff in Rorikstead 
+Find Gleda the Goat (if Ennis was not successfully bribed, persuaded, or intimidated) 
+Bring Gleda the Goat back to Ennis in Rorikstead (if Ennis was not successfully bribed, persuaded, or intimidated) 
+Talk to Ysolda in Whiterun about the staff 
+Find the wedding ring in Witchmist Grove (if Ysolda was not successfully bribed, persuaded, or intimidated) 
+Take the wedding ring (if Ysolda was not successfully bribed, persuaded, or intimidated) 
+Return the wedding ring to Ysolda in Whiterun (if Ysolda was not successfully bribed, persuaded, or intimidated) 
+Head to Morvunskar 
+Search Morvunskar for Sam and the staff"
+10;skyrim;65436;A Return To Your Roots;"Discover the significance of Crimson Nirnroot 
+Collect 30 Crimson Nirnroot in Blackreach 
+Bring 30 Crimson Nirnroot to Avrusa Sarethi"
+11;skyrim;71505;A Scroll For Anska;"Find and return Anska's scroll to her 
+Help Anska retrieve her scroll 
+Return the scroll to Anska"
+12;skyrim;67064;Aftershock;"Close the Rupture 
+Return to Tolfdir"
+13;skyrim;54448;Alduin's Bane;"Read the Elder Scroll at the Time-Wound 
+Learn the ""Dragonrend"" Shout from the Nord heroes 
+Defeat Alduin"
+14;skyrim;44496;Alduin's Wall (Quest);"Escort Esbern to Riverwood 
+Talk to Esbern 
+Gain entrance to Sky Haven Temple 
+Learn the secrets of Alduin's Wall"
+15;skyrim;71574;Alteration Ritual Spell;"Use Kavohzein's Fang to collect Heartscales 
+Bring Dragon Heartscales to Tolfdir"
+16;skyrim;55149;Amren's Sword;"Find Amren's Family Sword inside the bandit hideout 
+Return Amren's Family Sword to Amren"
+17;skyrim;962994;Amulet of the Moon;"Find the Moon Amulet inside the dungeon 
+Return the Moon Amulet to Kharjo"
+18;skyrim;68157;Ancestral Worship;"Protect Golldir (optional) 
+Defeat Vals Veran 
+Speak to Golldir (if alive)"
+19;skyrim;395704;Andurs' Arkay Amulet;"Recover Andurs' Amulet of Arkay 
+Return the amulet to Andurs"
+20;skyrim;62516;Animal Extermination;"Kill the beast 
+Return to Aela"
+21;skyrim;79359;Argonian Ale Extraction;"Steal the Argonian Ale 
+Give the Argonian Ale to Brenuin"
+22;skyrim;101828;Argonian Dock Workers;"Talk to Torbjorn Shatter-Shield about Scouts-Many-Marshes 
+Tell Scouts-Many-Marshes that Torbjorn Shatter-Shield is taken care of"
+23;skyrim;58680;Arniel's Endeavor;"Deliver ten cogs to Arniel Gane 
+Speak to Enthir 
+Acquire the Staff 
+Deliver the staff of Enthir 
+Talk to Arniel 
+Place the warped soul gem into a Convecter 
+Heat the Convector 
+Retrieve the soul gem 
+Place the warped soul gem into another Convector 
+Heat the Convector 
+Retrieve the soul gem 
+Place the warped soul gem into a final Convector 
+Heat the Convector 
+Retrieve the soul gem 
+Deliver the soul gem to Arniel 
+Talk to Enthir 
+Find the courier 
+Deliver the package to Arniel 
+Observe Arniel's experiment"
+24;skyrim;97986;Ashore in a Sea of Ghosts;"Explore Yngol's Barrow 
+Escape Yngol's Barrow"
+25;skyrim;68456;Battle for Solitude;"Get your orders from Ulfric Stormcloak 
+Force General Tullius to surrender 
+Execute General Tullius"
+26;skyrim;59615;Battle for Whiterun (Imperial);"Meet with Legate Rikke 
+Defend the barricades 
+Defend the drawbridge 
+Destroy attackers"
+27;skyrim;57594;Battle for Whiterun (Stormcloaks);"Get your orders from Galmar 
+Break through the enemy barricade 
+Follow Galmar Stone-Fist 
+Open the exterior gate 
+Open the drawbridge 
+Enter Whiterun 
+Break through the first barricade 
+Break through the second barricade 
+Break through the final barricade 
+Force Jarl Balgruuf the Greater to surrender 
+Accept Jarl Balgruuf the Greater's surrender"
+28;skyrim;70965;Battle for Windhelm;"Get your orders form General Tullius 
+Force Ulfric Stormcloak to surrender 
+Execute Ulfric Stormcloak"
+29;skyrim;50351;Before the Storm (Skyrim);"Talk to Alvor or Gerdur in Riverwood 
+Talk to the Jarl of Whiterun"
+30;skyrim;962650;Blacksmithing Tutorial;"Craft an iron dagger 
+Temper the iron dagger 
+Craft some leather 
+Craft a hide helmet 
+Temper the hide helmet"
+31;skyrim;42744;Bleak Falls Barrow (Quest);"Talk to Farengar 
+Retrieve the Dragonstone 
+Deliver the Dragonstone to Farengar"
+32;skyrim;67476;Blindsighted;"Travel to Irkngthand 
+Speak to Karliah 
+Locate Mercer Frey 
+Slay Mercer Frey 
+Retrieve the Skeleton Key 
+Escape from Irkngthand 
+Speak to Karliah"
+33;skyrim;59721;Blood on the Ice;"Question the witnesses 
+Report to the guard 
+Talk to Jorleif 
+Examine the crime scene 
+Talk to Helgird 
+Get access to Hjerim 
+Look for clues 
+Follow up on clues from Hjerim 
+Meet Viola outside of Hjerim (if spoken to) 
+Invetigate Hjerim with Viola (if spoken to) 
+Talk to Jorleif 
+Patrol the streets of the Stone Quarter at night 
+Catch the murderer 
+Talk to Jorleif for reward"
+34;skyrim;56769;Blood's Honor;"Speak to Kodlak Whitemane 
+Collect a Glenmoril Witch's head 
+Wipe out the Glenmoril Witches (optional) 
+Return to Kodlak"
+35;skyrim;1073026;Boethiah's Bidding;Assassinate the Jarl of Solitude
+36;skyrim;60284;Boethiah's Calling;"Investigate the Boethiah cultist (if attacked) 
+Find the shrine of Boethiah 
+Find the cult of Boethiah 
+Lead someone to become trapped by the shrine and slay them 
+Speak to Boethiah's Conduit 
+Slay everyone at Knifepoint Ridge stealthily 
+Retrieve and equip the Ebony Mail"
+37;skyrim;44504;Bound Until Death;"Kill Vittoria Vici 
+Report back to Astrid"
+38;skyrim;903794;Bow to the Master;"Retrieve Dravin's Bow 
+Return Dravin's Bow"
+39;skyrim;50532;Breaching Security;"Speak with Gabriella 
+Steal Gaius Maro's travel schedule (optional) 
+Kill Gaius Maro 
+Plant the Incriminating Letter on Gaius Maro's body 
+Report back to Gabriella"
+40;skyrim;69248;Brelyna's Practice;"Wait for Brelyna's spell to wear off 
+Speak to Brelyna"
+41;skyrim;1018720;Bring It!;"Speak to Harrald about the dagger for the son of the Jarl 
+Pick up his sword from Balimund in Riften"
+42;skyrim;80363;Bullying Braith;Convince Braith to stop bullying Lars
+43;skyrim;901494;Buy Dwarven artifact;Bring a dwarven item to Calcelmo
+44;skyrim;824731;Caught Red Handed;"Obtain a Mark of Dibella from Bolli 
+Obtain a Mark of Dibella from Hrofgir 
+Obtain a Mark of Dibella from Indaryn 
+Confront Haelga with the Marks of Dibella 
+Speak to Svana"
+45;skyrim;869190;Chop Wood;"Find a woodcutter's axe 
+Chop wood at a block 
+Sell the wood to a buyer"
+46;skyrim;247458;Climb The Steps;"Bring the supplies to High Hrothgar 
+Return to Klimmek"
+47;skyrim;395065;Coated in Blood;Bring a Daedra's heart to Moth
+48;skyrim;265690;Coming of Age;"Retrieve the treasure within Ironbind Barrow 
+Kill Warlord Gathrik 
+Kill Beem-Ja 
+Claim the treasure"
+49;skyrim;71187;Compelling Tribute (Imperials);"Find evidence 
+Blackmail Anuriel 
+Report to Legate Rikke 
+Meet the men 
+Follow Hadvar and ambush the enemy scout 
+Take over the caravan 
+Report back to Hadvar 
+Report success to Legate Rikke"
+50;skyrim;72642;Compelling Tribute (Stormcloaks);"Find evidence 
+Blackmail Raerek 
+Report to Galmar Stone-Fist 
+Meet the men 
+Follow Ralof and ambush the enemy scout 
+Take over the caravan 
+Report back to Ralof 
+Report success to Galmar Stone-Fist"
+51;skyrim;105294;Composure, Speed, and Precision;"Complete the first test 
+Complete the second test 
+Complete the third test"
+52;skyrim;66992;Conjuration Ritual Spell;"Summon and subdue an Unbound Dremora 
+Deliver the stone to Phinis"
+53;skyrim;57073;Containment;"Assess the damage to the Great Hall 
+Find the Arch-Mage 
+Protect the town of Winterhold 
+Defeat the creatures infesting Winterhold 
+Report to Mirabelle Ervine"
+54;skyrim;84089;Contract: Kill Agnis;"Kill Agnis 
+Report back to Nazir"
+55;skyrim;77725;Contract: Kill Anoriath;"Kill Anoriath 
+Report back to Nazir"
+56;skyrim;62753;Contract: Kill Beitild;"Kill Beitild 
+Report back to Nazir"
+57;skyrim;81362;Contract: Kill Deekus;"Kill Deekus 
+Report back to Nazir"
+58;skyrim;62796;Contract: Kill Ennodius Papius;"Kill Ennodius Papius 
+Report back to Nazir"
+59;skyrim;84133;Contract: Kill Helvard;"Kill Helvard 
+Report back to Nazir"
+60;skyrim;63088;Contract: Kill Hern;"Kill Hern 
+Report back to Nazir"
+61;skyrim;64621;Contract: Kill Lurbuk;"Kill Lurbuk 
+Report back to Nazir"
+62;skyrim;81346;Contract: Kill Ma'randru-jo;"Kill Ma'randru-jo 
+Report back to Nazir"
+63;skyrim;84119;Contract: Kill Maluril;"Kill Maluril 
+Report back to Nazir"
+64;skyrim;62769;Contract: Kill Narfi;"Kill Narfi 
+Report back to Nazir"
+65;skyrim;84167;Contract: Kill Safia;"Kill Safia 
+Report back to Nazir"
+66;skyrim;61201;Dampened Spirits;"Speak to Maven Black-Briar 
+Speak to Mallus Maccius 
+Speak to Sabjorn 
+Poison the nest 
+Poison the Honningbrew vat 
+Attend the tasting ceremony 
+Identify Sabjorn's silent partner 
+Return to Maven Black-Briar 
+Return to Brynjolf"
+67;skyrim;448688;Dark Ancestor;"Destroy the vampire Vighar 
+Tell Dengeir that Vighar is dead"
+68;skyrim;44503;Darkness Returns;"Enter the Twilight Sepulcher 
+Speak to the Nightingale Sentinel 
+Follow the Pilgrim's Path 
+Retrieve Nystrom's Journal (optional) 
+Return the Skeleton Key to Ebonmere 
+Listen to Nocturnal 
+Speak to Karliah 
+Choose Nightingale Role"
+69;skyrim;50573;Death Incarnate;"Enter the Sanctuary 
+Search for survivors 
+Kill the Legion soldiers inside the Sanctuary 
+Kill Nazir's attacker! 
+Speak with Nazir 
+Escape the Sanctuary 
+Embrace the Night Mother 
+Talk to Astrid 
+Kill Astrid 
+Retrieve the Blade of Woe (optional) 
+Return to the Night Mother"
+70;skyrim;55681;Delayed Burial;"Talk to the strange jester 
+Convince Loreius to fix the wheel 
+Report Cicero to the guard 
+Convince Loreius or report Cicero 
+Talk to Loreius 
+Talk to Cicero"
+71;skyrim;76417;Deliver Moon Sugar to Ri'saad;"Deliver Moon Sugar to Ri'saad 
+Return to Tonilia"
+72;skyrim;159353;Delivery;Deliver the item to the target
+73;skyrim;901557;Delivery to Calcelmo;Give the ring to Calcelmo
+74;skyrim;55937;Destroy the Dark Brotherhood!;"Report Astrid's death to a guard 
+Speak with Commander Maro 
+Kill everyone in the Sanctuary! 
+Report back to Commander Maro"
+75;skyrim;65023;Destruction Ritual Spell;Complete the book Power of the Elements
+76;skyrim;44495;Diplomatic Immunity;"Meet Delphine in Riverwood 
+Meet Malborn in Solitude 
+Give Malborn any equipment to smuggle into the Thalmor Embassy 
+Meet Delphine at Katla's Farm in Solitude 
+Create a distraction and get away from the party 
+Retrieve the Dragonborn's gear (optional) 
+Search for information about the dragons returning 
+Escape the Thalmor Embassy 
+Talk to Delphine"
+77;skyrim;63023;Discerning the Transmundane;"Ask Urag about the insane book 
+Find Septimus Signus 
+Transcribe the Lexicon 
+Give the Lexicon to Septimus 
+Harvest High Elf blood 
+Harvest Wood Elf blood 
+Harvest Dark Elf blood 
+Harvest Falmer blood 
+Harvest Orc blood 
+Bring blood to Septimus 
+Take the Oghma Infinium"
+78;skyrim;104086;Distant Memories;"Locate a clue about Brand-Shei's past 
+Return to Brand-Shei"
+79;skyrim;245135;Dragon Hunting;"Speak to Esbern 
+Travel to the given lair location 
+Defeat the dragon 
+Return to Esbern"
+80;skyrim;88241;Dragon Research;Bring one Dragon Scale and one Dragon Bone to Esbern
+81;skyrim;71958;Dragon Seekers;"Kill the dragon at the den 
+Talk to the quest giver"
+82;skyrim;77306;Dragon's Breath Mead (Quest);"Steal the Dragon's Breath Mead for Olda 
+Bring the Dragon's Breath Mead to Olda"
+83;skyrim;44498;Dragonslayer;"Help the heroes of Sovngarde dispel Alduin's mist 
+Defeat Alduin"
+84;skyrim;1056436;Dravynea's Frost Salts;Bring some Frost Salts to Dravynea
+85;skyrim;164093;Drowned Sorrows;"Talk to Haran 
+Talk to Vex at the Ragged Flagon 
+Find Isabelle Rolaine in Hob's Fall Cave 
+Take Isabelle's Letter and deliver it to Ranmir"
+86;skyrim;971450;Dungeon Delving;"Find the item inside the dungeon 
+Return the item to the owner"
+87;skyrim;44499;Elder Knowledge;"Learn the location of the Elder Scroll 
+Talk to Esbern (Optional) 
+Talk to Arngeir (Optional) 
+Recover the Elder Scroll"
+88;skyrim;104977;Elisif's Tribute;"Take Torygg's War Horn to the Shrine of Talos for Elisif the Fair 
+Talk to Elisif"
+89;skyrim;160086;Enchanting Pick-Up;"Go to the client and pick up the item 
+Return the item to Sergius Turrianus"
+90;skyrim;881068;Erik the Slayer (Quest);"Talk to Mralki about Erik 
+Return to Erik"
+91;skyrim;67690;Escaped Criminal;"Kill the escaped criminal 
+Speak to the quest giver"
+92;skyrim;69650;Evil in Waiting;"Collect the three vessels 
+Perform the ritual with Valdar 
+Defeat Hevnoraak"
+93;skyrim;926070;Extracting an Argonian;"Find Derkeethus 
+Get Derkeethus out of the cave"
+94;skyrim;157862;Falion's Secret;"Follow Falion to the summoning circle at 1:00 AM 
+Talk to Falion 
+Inform the Jarl about Falion (optional)"
+95;skyrim;65387;Family Heirloom;"Retrieve the gewgaw from the location 
+Return to the quest giver"
+96;skyrim;83908;Fetch Me That Book!;"Find the copy of the book 
+Return the book to Urag gro-Shub"
+97;skyrim;70223;Few and Far Between;"Find 20 nirnroot for Ingun Black-Briar 
+Find 20 nightshade for Ingun Black-Briar 
+Find 20 deathbell for Ingun Black-Briar 
+Speak to Ingun Black-Briar"
+98;skyrim;869200;Fight! Fight!;"Challenge someone to a brawl 
+Win the brawl 
+Collect the bet"
+99;skyrim;74555;Find Roggi Knot-Beard's Ancestral Shield;"Find Roggi Knot-Beard's Ancestral Shield in the dungeon 
+Return Roggi Knot-Beard's Ancestral Shield to Roggi"
+100;skyrim;555599;Find Runil's Journal;"Find Runil's journal inside the location 
+Return Runil's Journal to Runil"
+101;skyrim;80441;Find the Source of Power;Find the Source of Power at the location
+102;skyrim;73823;Find the Thalmor Assassin;"Find the Thalmor assassin 
+Tell Malborn the assassin is dead"
+103;skyrim;485195;Find the Word of Power;Find the Word of Power at the location
+104;skyrim;74436;Finn's Lute (Quest);"Find Finn's Lute 
+Give Finn's Lute to Inge"
+105;skyrim;56946;First Lessons;"Join the College of Winterhold 
+Cast: 
+Report to Mirabelle Ervine 
+Tour the College of Winterhold 
+Listen to Tolfdir"
+106;skyrim;125524;Fit for a Jarl;"Speak to Elisif with Taarie's outfit on 
+Tell Taarie what Elisif said about the outfit"
+107;skyrim;80721;Flight or Fight;"Report Leifnarr's death to his family 
+Find Leifnarr 
+Return to Grosta"
+108;skyrim;863863;For the Good of Morthal;Deliver Gorm's Letter to Captain Aldis
+109;skyrim;56697;Forbidden Legend;"Investigate the cryptic message 
+Investigate the Gauldur legend 
+Learn the truth from Daynas Valen 
+Read Daynas Valen's notes 
+Find the Gauldur Amulet fragment in Saarthal 
+Find the Gauldur Amulet fragment in Folgunthur 
+Find the Gauldur Amulet fragment in Geirmund's Hall 
+Reforge the Gauldur Amulet 
+Take the Gauldur Amulet"
+110;skyrim;88508;Forgetting about Fjola;"Search Mistwatch for Fjola 
+Return to Christer 
+Report back to Fjola (if getting rid of Christer)"
+111;skyrim;60355;Forgotten Names;"Discover the strange Daedric Gauntlet in The Midden 
+Recover the nearby key and incident report 
+Retrieve the four missing rings in the Arcanaeum 
+Place the rings on the correct fingers of the gauntlet 
+Slay or release Velehk Sain"
+112;skyrim;90072;Frostflow Abyss (Quest);Find the source of the murders in Frostflow Lighthouse
+113;skyrim;869187;Gather Wheat;"Collect crops 
+Sell the crops to a farmer"
+114;skyrim;80430;Get Outfitted;"Talk to Beirand 
+Choose the desired armor type"
+115;skyrim;102145;Gharol's Message;Deliver Gharol's sword to Lash
+116;skyrim;44500;Glory of the Dead;"Attend Kodlak's funeral 
+Give the fragments of Wuuthrad to Eorlund 
+Retrieve Kodlak's fragment 
+Give the final fragment to Eorlund 
+Meet the Circle 
+Go to Ysgramor's Tomb with the Circle 
+Return Wuuthrad to Ysgramor 
+Get to the burial chamber 
+Speak to Kodlak 
+Put witch head into fire 
+Defeat the wolf spirit 
+Speak to Kodlak"
+117;skyrim;55815;Good Intentions;"Speak with Tolfdir 
+Listen to Tolfdir 
+Follow Ancano 
+Find the Augur of Dunlain 
+Report back to Savos Aren"
+118;skyrim;59979;Greatsword for a Great Man;Deliver the sword to Proventus Avenicci
+119;skyrim;160092;Grimsever's Return;"Locate Grimsever 
+Return to Mjoll"
+120;skyrim;158502;Grin and Bear It;"Gather 10 bear pelts for Temba Wide-Arm 
+Retun to Temba Wide-Arm"
+121;skyrim;44505;Hail Sithis!;"Talk to Nazir 
+Talk to Amaund Motierre 
+Board the Katariah 
+Kill Commander Maro (optional) 
+Kill the Emperor! 
+Report to Amaund Motierre 
+Retrieve the payment 
+Kill Amaund Motierre (optional) 
+Report to Nazir"
+122;skyrim;60687;Hard Answers;"Speak with Enthir 
+Speak with Calcelmo inside the Understone Keep in Markarth 
+Obtain key to Calcelmo's Museum (optional) 
+Gain Entry to Calcelmo's Museum 
+Find Calcelmo's Falmer Translating Guide 
+Duplicate the writing on Calcelmo's Stone with charcoal and a paper roll 
+Return to Enthir 
+Speak to Karliah"
+123;skyrim;81505;Harsh Master;"Kill the bandit leader 
+Return to Kjar"
+124;skyrim;62062;Hired Muscle;"Intimidate the target at the location 
+Return to Farkas"
+125;skyrim;55822;Hitting the Books;"Speak with Mirabelle Ervine 
+Speak with Urag gro-Shub 
+Find the stolen books 
+Free Orthorn (optional) 
+Return the books"
+126;skyrim;85644;Honor Thy Family;Pay Nazir the fine
+127;skyrim;79190;Hunt and Gather;"Retrieve Wylandria's Spoon 
+Retrieve Wylandria's Ingot 
+Retrieve Wylandria's Soul Gem 
+Return to Wylandria"
+128;skyrim;88101;Hunter and Hunted;"Locate Valdr's hunting party 
+Heal Valdr's injuries 
+Clear out Moss Mother Cavern 
+Return to Valdr (if told to wait)"
+129;skyrim;869125;I Done Got Thaned!;"Befriend the Jarl of the Rift 
+Assist five citizens of the Rift 
+Stop the Skooma trade 
+Purchase Honeyside 
+Return to the Jarl"
+130;skyrim;863177;Ice Cold;"Find five ice wraith teeth for Marise 
+Return to Marise"
+131;skyrim;51452;Ill Met by Moonlight;"Speak to Sinding 
+Kill the great beast 
+Begin the hunt 
+Join the hunt 
+Kill Sinding (optional) 
+Skin Sinding (optional) 
+Kill the hunters 
+Talk to Sinding (if spared) 
+Speak to Hircine"
+132;skyrim;93437;Illusion Ritual Spell;Bring the Four Master Illusion texts to Drevis Neloren
+133;skyrim;58896;Imitation Amnesty;"Speak to Olfrid Battle-Born 
+Forge the prison registry 
+Steal the letter incriminating Arn 
+Return to Olfrid Battle-Born"
+134;skyrim;58875;In My Time of Need;"Find the Redguard woman 
+Speak with Saadia or inform the Alik'r of Saadia's location 
+Talk to the Alik' Prisoner or inform the Alik'r of Saadia's location 
+Find a way to enter the Alik'r hideout 
+Enter the Alik'r hideout 
+Kill Kematu or talk to him 
+Kill Kematu or convince Saadia to meet Kematu 
+Return to Saadia 
+Lead Saadia to the Whiterun Stables (if siding with the Alik'r)"
+135;skyrim;57781;Infiltration (Skyrim);"Use the backdoor to gain access to Treva's Watch 
+Use the lever to open the gate to Treva's Watch 
+Meet up with Stalleo in the courtyard"
+136;skyrim;57615;Innocence Lost;"Talk to Aventus Aretino 
+Kill Grelod the Kind 
+Tell Aventus Aretino that Grelod the Kind has been killed"
+137;skyrim;84451;Investigate the Bard's College;Investigate the Bards College
+138;skyrim;69541;J'zargo's Experiment;"Test J'zargo's flame cloak spell on the undead 
+Speak to J'zargo"
+139;skyrim;66523;Joining the Legion;"Clear out Fort Hraggstad 
+Report to Legate Rikke 
+Take the oath"
+140;skyrim;61724;Joining the Stormcloaks;"Kill the Ice Wraith 
+Report to Galmar 
+Take the oath"
+141;skyrim;226705;Kidnapped for Ransom;"Read the bandit's Ransom Note 
+Rescue spouse from the location"
+142;skyrim;96287;Kill the Bandit Leader;"Kill the leader of the dungeon 
+Tell the steward the bandit leader is dead"
+143;skyrim;869207;Kill the Bandit Leader (Siddgeir);"Kill the leader of the bandits 
+Return to Siddgeir"
+144;skyrim;112172;Kill the Dragon;"Kill the dragon 
+Collect the bounty"
+145;skyrim;112171;Kill the Forsworn Leader;"Kill the leader of the Forsworn 
+Collect the bounty"
+146;skyrim;112178;Kill the Giant (Bounty);"Kill the giant 
+Collect the bounty"
+147;skyrim;868951;Kill the Giant (Jarl);"Kill the giant 
+Return to Skald"
+148;skyrim;104945;Kill the Vampire;"Kill the leader of Pinemoon Cave 
+Tell Sybille the vampire is dead"
+149;skyrim;96619;Kolskeggr Mine (Quest);"Clear the Forsworn from Kolskeggr Mine 
+Tell Pavo the Kolskeggr Mine is cleared"
+150;skyrim;63164;Kyne's Sacred Trials;"Defeat the Guardian Wolf 
+Defeat the Guardian Skeever 
+Defeat the Guardian Mudcrab 
+Return to Froki 
+Defeat the Guardian Bear 
+Defeat the Guardian Mammoth 
+Defeat the Guardian Sabre Cat 
+Return to Froki 
+Defeat the Guardian Troll 
+Return to Froki"
+151;skyrim;57323;Laid to Rest;"Talk to the Jarl 
+Investigate the burned house 
+Tell the Jarl about Helgi (optional) 
+Find Helgi after dark 
+Ask around about Laelette 
+Ask Thronnir about Laelette 
+Investigate Alva's house 
+Show Alva's Journal to the Jarl 
+Kill the master vampire 
+Return to Morthal's Jarl"
+152;skyrim;56736;Liberation of Skyrim;"Report to Ulfric Stormcloak 
+Liberate Haafingar 
+Liberate the Reach 
+Liberate Hjaalmarch 
+Liberate Whiterun Hold 
+Liberate Falkreath Hold 
+Liberate the Pale 
+Liberate Winterhold Hold 
+Liberate the Rift"
+153;skyrim;94846;Lifting the Shroud;"Investigate Shroud Hearth Barrow 
+Bring Wyndelius' Journal to Wilhelm"
+154;skyrim;58018;Lights Out!;"Extinguish the fire in the Solitude Lighthouse 
+Return to Jaree-Ra 
+Find Deeja at the Wreck of the Icerunner 
+Speak to Deeja, to get a share of the loot 
+Defeat Deeja 
+Find out where Jaree-Ra's bandits took the loot 
+Travel to Broken Oar Grotto 
+Defeat Jaree-Ra"
+155;skyrim;901565;Lisbet's Missing Shipment;"Retrieve Lisbet's shipment from the Forsworn Camp 
+Bring the Dibella Statue to Lisbet"
+156;skyrim;74184;Locate the Assassin of Old;Locate the assassin of old
+157;skyrim;56939;Loud and Clear;"Follow Brynjolf 
+Listen to Mercer Frey 
+Talk to Brynjolf 
+Speak to Vex about Goldenglow Estate (optional) 
+Burn three beehives 
+Enter Goldenglow using sewer (optional) 
+Obtain the key to Aringoth's safe (optional) 
+Clear out Aringoth's safe 
+Return to Brynjolf"
+158;skyrim;88258;Meditations on the Words of Power;"Fus (force) will apply the effect Force Without Effort, giving a 25% increase in stability against staggering and a 25% chance of opponents being staggered (most recommended, as by the time one reaches Paarthurnax, one will have learned all words of power for Unrelenting Force). 
+Feim (fade) will apply the effect Ethereal Spirit, increasing health regeneration while ethereal by 25%. 
+Yol (fire) will apply the effect The Fire Within, increasing the damage dealt by Fire Breath by 25%."
+159;skyrim;84129;Medresi Dran and the Wandering Dead;"Destroy the Draugr in Angarvunde 
+Talk to Medresi in Angarvunde 
+Find a way to open the gates 
+Open the other gate 
+Return to Madresi 
+Discover the treasure of Angarvunde"
+160;skyrim;57598;Message to Whiterun;"Deliver the message (If the Dragonborn joined the Stormcloaks: ""axe"") to the Jarl of Whiterun 
+Assist Jarl Balgruuf with the dragon threat 
+Wait for the Jarl's response 
+Wait for orders from Jarl Ulfric (Stormcloaks only) 
+Deliver the axe to Jarl Ulfric (Imperial Legion only) 
+Return to Whiterun and warn the Jarl (Imperial Legion only) 
+Return to Legate Quentin Cipius (Imperial Legion only)"
+161;skyrim;153841;Mine or Yours;"Clear Redbelly Mine of spiders 
+Return to Filnjar"
+162;skyrim;869193;Mine Ore;"Find a pickaxe 
+Mine ore 
+Sell ore to buyers"
+163;skyrim;50337;Missing in Action;"Meet Fralia in her home 
+Find evidence of Thorald's fate 
+Deliver proof to Avulstein 
+One of two options: 
+Rescue Thorald from Northwatch Keep 
+Lead Thorald to safety 
+Speak to Thorald 
+Return to Fralia Gray-Mane"
+164;skyrim;57962;Mourning Never Comes;"Speak with Astrid 
+Talk to Muiri 
+Kill Alain Dufont 
+Kill Nilsine Shatter-shield (optional) 
+Talk to Muiri 
+Report back to Astrid"
+165;skyrim;901575;Nimhe, the Poisoned One;"Kill Nimhe inside Nchuand-Zel 
+Tell Calcelmo that Nimhe is dead"
+166;skyrim;79737;No News is Good News;"Ask Aldis for information about Angeline's daughter 
+Tell Angeline what Aldis said"
+167;skyrim;59739;No One Escapes Cidhna Mine;"Ask a prisoner about Madanach 
+Get past Borkul the Beast 
+Talk to Madanach 
+Hear Braig's story (Forsworn option) 
+Kill Madanach (Silver-Blood option)"
+168;skyrim;57212;No Stone Unturned (Skyrim);"Bring the Unusual Gem to an appraiser 
+Find someone who can identify the Unusual Gem 
+Become a full member of the Thieves Guild (if not already) 
+Bring the Unusual Gem to Vex in the Thieves Guild 
+Recover the Stones of Barenziah 
+Speak to Vex 
+Recover the Crown of Barenziah 
+Return to Vex"
+169;skyrim;74549;Onmund's Request;"Speak with Enthir 
+Find the staff for Enthir 
+Deliver the staff to Enthir 
+Deliver the amulet to Onmund"
+170;skyrim;886611;Ottoman Hold/Sandbox1;"""From the dust, these look left over from when the previous occupant moved out."" (Investigate Mead; two mead bottles near door) 
+""From the marks on the floor, it looks like this box was pushed against the wall recently."" (Investigate Chest; chest near mead bottles) 
+""These haven't been used for ages. Nothing by skeever droppings and cobwebs inside."" Investigate Pots and Pans; pans in side room) 
+""The chair is stacked on the bed in an odd fashion."" (Investigate Bed and Chairs; upstairs stack of bed and two chairs) 
+""This perfectly good wardrobe was left behind for some reason."" (Investigate Wardrobe; non-secret one) 
+""This shelf is filled with more of those ""Butcher"" fliers from around the city. One pile looks misshapen."" (Investigate Small Shelf; shelf with butcher pamphlets) 
+""This wardrobe seems to be nailed to the wall for some reason."" (Investigate Wardrobe; cabinet nailed to the wall) 
+""This altar is built to unknown magic. It looks like someone is using body parts towards some gruesome end."" (Investigate Altar; altar in secret room) 
+""No! Someone help me! Please!"" - Arivanya 
+""You. You're coming with me. We're finally going to arrest the Butcher."" ""Yes, sir."" 
+""What is the meaning of this?"" ""You're under the arrest, for the murder of Susanna of Candlehearth Hall. And Friga Shatter-Shield. And all the Rest. We're wise you you're scheming, old coward."" ""Has the whole city lost their brains? I've been scrying and auguring to find the murderer myself."" ""Make your excuses from the Bloodworks, murderer."""
+171;skyrim;99106;Out of Balance;"Cleanse the focal points for magical energies around the College 
+Return to Drevis Neloren"
+172;skyrim;54449;Paarthurnax (Quest);"Kill Paarthurnax 
+Talk to Delphine"
+173;skyrim;74445;Pantea's Flute (Quest);"Find Pantea's Flute 
+Return Pantea's Flute"
+174;skyrim;54331;Pieces of the Past;"Speak to Silus inside his house 
+Retrieve the pommel of Mehrunes' Razor 
+Retrieve the blade shards of Mehrunes' Razor 
+Retrieve the hilt of Mehrunes' Razor 
+Bring the pommelstone to Silus 
+Bring the blade shards to Silus 
+Bring the hilt to Silus 
+Meet Silus at the Shrine of Mehrunes Dagon 
+Speak to Mehrunes Dagon 
+Kill Silus (optional) 
+Speak to Mehrunes Dagon (if Silus was killed) 
+Reforge Mehrunes' Razor (if Silus was killed) 
+Claim Mehrunes' Razor (if Silus was killed)"
+175;skyrim;932713;Pilgrimage (Skyrim);"Bring Alessandra's Dagger to Andurs in Whiterun 
+Return to Alessandra"
+176;skyrim;61009;Promises to Keep;"Speak to Louis Letrush 
+Speak to Sibbi Black-Briar 
+Tell Maven Black-Briar about the plan (optional) 
+Steal Frost's lineage papers 
+Steal the lodge stash (optional) 
+Steal Frost 
+Return to Louis Letrush"
+177;skyrim;50274;Proving Honor;"Speak to Skjor 
+Speak to Farkas 
+Retrieve the fragment 
+Return to Jorrvaskr 
+Follow Vilkas"
+178;skyrim;68534;Purity;"Collect a Glenmoril Witch Head 
+Cleanse the quest giver of beastblood 
+Kill the quest giver's wolf spirit 
+Talk to the quest giver"
+179;skyrim;61761;Purity of Revenge;"Retrieve the fragments of Wuuthrad 
+Wipe out the Silver Hand (optional) 
+Return to Jorrvaskr"
+180;skyrim;869102;Quest all Beggars Have;Give a beggar a gold coin
+181;skyrim;159315;Quest all Drunks Have;Give someone an alcoholic drink
+182;skyrim;873562;Rannveig's Fast (Quest);"Enter the Rannveig's Fast 
+Fall into Sild the Warlock's trap, or sneak into his chamber 
+Kill Sild 
+Learn the word of power"
+183;skyrim;159314;Rare Gifts;Bring the quest item to the quest giver
+184;skyrim;213902;Rebuilding the Blades;"Bring a follower to Delphine (three times) 
+Ask Esbern about dragon lairs"
+185;skyrim;50562;Recipe for Disaster;"Report to Festus Krex 
+Question Anton Virane 
+Kill Anton Virane 
+Kill Balagog gro-Nolob 
+Take the Writ of Passage 
+Report back to Festus Krex"
+186;skyrim;99046;Recover Hrolfdir's Shield;"Find Hrolfdir's Shield for Igmund 
+Bring Hrolfdir's Shield to Igmund"
+187;skyrim;80452;Recruitment Drive;Talk to Rikke about joining the Imperial Legion
+188;skyrim;113416;Rejoining the College;"Speak with Tolfdir 
+Give Tolfdir 250 gold to lift your suspension (first suspension) 
+Pay Tolfdir 500 gold to lift your suspension (second suspension) 
+Pay Tolfdir 1000 gold to lift your suspension (third suspension)"
+189;skyrim;74969;Repairing the Phial;"Speak to Quintus Navale 
+Retrieve the Unmelting Snow 
+Find some Mammoth Tusk Powder 
+Take a Forsworn Heart 
+Return to Quintus Navale"
+190;skyrim;80602;Reparations;"Speak to Vex 
+Bring 1000 gold to Vex"
+191;skyrim;72176;Repentance (Skyrim);"Help Illia reach the top of Darklight Tower 
+Defeat Illia's mother at the top of Darklight Tower"
+192;skyrim;84110;Rescue from Fort Kastav;"Meet the men near Fort Kastav 
+Sneak into the fort 
+Free the prisoners 
+Take over the fort 
+Report back to Hadvar"
+193;skyrim;75413;Rescue from Fort Neugrad;"Meet the men near Fort Neugrad 
+Sneak into the fort 
+Free the prisoners 
+Take over the fort 
+Report back to Ralof"
+194;skyrim;63524;Rescue Mission;"Rescue the victim from the lair 
+Talk to the victim 
+Escort the victim back to their home 
+Take your leave of the victim 
+Return to the quest giver"
+195;skyrim;160087;Restocking Soul Gems;"Collect the requested soul gems 
+Give Sergius Turrianus the soul gems"
+196;skyrim;70034;Restoration Ritual Spell;Gain the Augur's approval
+197;skyrim;59577;Retrieval (Skyrim);"Retrieve the fragment of Wuuthrad 
+Return to Aela"
+198;skyrim;233359;Return to Grace;"Speak to Greta about going to the Temple of the Divines 
+Retrieve the Amulet of Talos off of Roggvir 
+Return the Amulet of Talos to Greta"
+199;skyrim;61504;Reunification of Skyrim;"Report to General Tullius 
+Regain The Pale (unless won during ""Season Unending"") 
+Regain The Rift (unless won during ""Season Unending"") 
+Regain Falkreath Hold (if lost during ""Season Unending"") 
+Regain The Reach (if lost during ""Season Unending"") 
+Regain Winterhold (unless won during ""Season Unending"") 
+Regain Eastmarch"
+200;skyrim;44501;Revealing the Unseen (Skyrim);"Speak with Mirabelle Ervine 
+Find the ruins of Mzulft 
+Search for Synod researchers 
+Reach the Oculory 
+Find the Focusing Crystal 
+Return the Crystal to Paratus 
+Follow Paratus 
+Place the Crystal into the Oculory 
+Focus the Oculory 
+Talk to Paratus 
+Report to Savos Aren 
+Reach Ancano"
+201;skyrim;903803;Ringmaker;"Find two flawless sapphires for Madesi 
+Find a mammoth tusk for Madesi 
+Find gold ore for Madesi 
+Speak to Madesi"
+202;skyrim;65156;Rise in the East;"Steal Suvaris Atheron's logbook 
+Give the logbook to Orthus 
+Talk to Stig Salt-Plank 
+Report back to Orthus 
+Depart for Japhet's Folly 
+Talk to Adelaisa Vendicci 
+Kill Haldyn 
+Report back to Adelaisa 
+Speak to Adelaisa to return 
+Speak to Orthus"
+203;skyrim;92026;Rising At Dawn;"Speak to Falion 
+Bring a filled Black Soul Gem to Morthal 
+Meet Falion at dawn 
+Speak to Falion 
+Wait for Falion to complete the ritual"
+204;skyrim;74426;Rjorn's Drum (Quest);"Find Rjorn's Drum 
+Give Rjorn's Drum to Giraud"
+205;skyrim;155241;Rogatus's Letter (Quest);Deliver Rogatus's letter to Leontius
+206;skyrim;298422;Rogue Wizard;"Deal with the rogue wizard 
+Return to Tolfdir"
+207;skyrim;995494;Runil's Dark Past;"Talk to Runil 
+Tell Runil's secret or keep his secret safe"
+208;skyrim;106640;Salt For Arcadia;Give the Frost Salts to Arcadia
+209;skyrim;106600;Salty Sea-Dogs;"Find the Fine-Cut Void Salts for Wayfinder 
+Bring the Fine-Cut Void Salts to Wayfinder"
+210;skyrim;62747;Sanctuary (Quest);"Speak with Nazir 
+Receive the first set of contracts from Nazir"
+211;skyrim;885812;Sanuarach Mine (Quest);"Convince Atar to leave Sanuarach Mine or Convince Ainethach to sell 
+Tell Ainethach that Atar has been dealt with (if siding with Ainethach) 
+Tell Atar that Ainethach has been dealt with (if siding with Atar)"
+212;skyrim;54994;Scoundrel's Folly;"Speak to Mercer Frey 
+Speak to Brynjolf (optional) 
+Speak to Gulum-Ei 
+Shadow Gulum-Ei 
+Confront Gulum-Ei 
+Return to Mercer Frey"
+213;skyrim;544192;Sealing the Deal;"Get three flawless amethysts for Talen-Jei 
+Return to Talen-Jei"
+214;skyrim;233383;Search and Seizure;"Find evidence of Ogmund's Talos worship 
+Bring Ogmund's Amulet of Talos to Ondolemar"
+215;skyrim;54450;Season Unending;"Talk to Arngeir 
+Talk to General Tullius 
+Talk to Ulfric Stormcloak 
+Talk to Arngeir 
+Take your seat 
+Negotiate a truce"
+216;skyrim;101831;Shahvee's Amulet;"Find the Amulet of Zenithar for Shahvee 
+Return the Amulet of Zenithar to Shahvee"
+217;skyrim;54357;Shalidor's Insights (Quest);"Find Shalidor's writings 
+Talk to Urag"
+218;skyrim;92474;Side Quests (Skyrim);"A Love Beyond Death 
+Ancestral Worship 
+Argonian Dock Workers 
+Blood on the Ice 
+Find Roggi Knot-Beard's Ancestral Shield 
+Find the Thalmor Assassin 
+Harsh Master 
+Queen Freydis's Sword 
+Repairing the Phial 
+Rise in the East 
+Shahvee's Amulet 
+The Forgemaster's Fingers 
+The White Phial 
+That Was Always There – Plant Viola's Gold Ring in Viola Giordano's House."
+219;skyrim;60916;Siege on the Dragon Cult;"Find Skorm Snow-Strider's journal (optional) 
+Obtain Rahgot's mask 
+Show Skorm Snow-Strider's journal to Valmir (optional) 
+Find the key to the well in the Catacombs (optional: if Valmir was not killed) 
+Return to Valmir (if alive) 
+Kill the imposter Valmir (if alive)"
+220;skyrim;54352;Silenced Tongues;"Locate the Ceremonial Weapons 
+Open the Elder's Cairn 
+Defeat Kvenel"
+221;skyrim;60599;Silver Lining;"Speak to Endon the Silversmith 
+Enter Pinewatch 
+Recover Endon's silver mold 
+Return to Endon"
+222;skyrim;395061;Skilled Apprenticeship;Bring the Last Scabbard of Akrash to Ghorza
+223;skyrim;903802;Smooth Jazbay;"Find 20 Jazbay 
+Bring the Jazbay to Avrusa Sarethi"
+224;skyrim;62604;Soljund's Sinkhole (Quest);"Clear Soljund's Sinkhole of draugr 
+Tell Perth that the draugr are dead"
+225;skyrim;117462;Some Light Theft;"Steal the item for the client 
+Bring the item to the client"
+226;skyrim;54453;Sovngarde (Quest);"Find out how to defeat Alduin 
+Gain admittance to the Hall of Valor 
+Talk to the heroes of Sovngarde"
+227;skyrim;116870;Speak to Lod;"Speak to Lod 
+Find the Dog outside Falkreath"
+228;skyrim;56831;Speaking With Silence;"Meet Mercer Frey outside Snow Veil Sanctum 
+Enter Snow Veil Sanctum 
+Find Karliah 
+Speak to Karliah"
+229;skyrim;850828;Special Delivery (Bolli);Deliver the purchase agreement to Kleppr in Markarth
+230;skyrim;92948;Special Delivery (Sylgja);"Deliver the satchel to Verner in Darkwater Crossing 
+Return to Sylgja"
+231;skyrim;1000497;Spread the Love;"Distribute The Warmth of Mara within Riften to 20 people 
+Return to Dinya"
+232;skyrim;158964;Stabilized;"Speak to Sapphire about Shadr's debt 
+Return to Shadr"
+233;skyrim;65227;Stealing Plans;"Steal the plans 
+Return to Aela"
+234;skyrim;62440;Stoking the Flames;"Speak to Balimund 
+Acquire ten fire salts for Balimund 
+Give the Fire Salts to Balimund"
+235;skyrim;62648;Striking the Heart;"Assassinate the Silver hand leader 
+Retun to Aela"
+236;skyrim;59117;Summerset Shadows (Quest);"Speak to Torsten Cruel-Sea 
+Speak to Niranye 
+Discover leverage to sway Niranye (optional) 
+Travel to Uttering Hills Cave 
+Recover Fjolti's Silver Locket 
+Destroy the Summerset Shadows' Banner (optional) 
+Return to Torsten Cruel-Sea"
+237;skyrim;93987;Supply and Demand;"Report skooma source to Jarl of Riften 
+Find the skooma dealers in Cragslane Cavern 
+Disrupt the skooma operation 
+Report to the Jarl of Riften"
+238;skyrim;56748;Take Up Arms;"Speak with the leader of the Companions 
+Speak with Kodlak Whitemane 
+Train with Vilkas 
+Give Vilkas' sword to Eorlund 
+Bring Aela her shield 
+Follow Farkas to your quarters"
+239;skyrim;55862;Taking Care of Business;"Locate Brynjolf at The Ragged Flagon 
+Collect Keerava's debt 
+Collect Bersi Honey-Hand's debt 
+Collect Haelga's debt 
+Return to Brynjolf"
+240;skyrim;145949;Telrav's Request;"Escort Telrav to his camp 
+Kill Telrav"
+241;skyrim;71658;Tending the Flames;"Find King Olaf's Verse 
+Return to the Bards College 
+Help Viarmo reconstruct Olaf's verse 
+Meet Viarmo at the Blue Palace 
+Watch Viarmo perform Olaf's Verse 
+Speak to Jorn 
+Attend The Burning of King Olaf"
+242;skyrim;869045;Thane of Eastmarch;"Befriend the Jarl of Eastmarch 
+Assist five citizens of Eastmarch 
+Purchase Hjerim 
+Return to the Jarl"
+243;skyrim;869048;Thane of Falkreath;"Befriend the Jarl of Falkreath 
+Assist three citizens of Falkreath 
+Return to the Jarl"
+244;skyrim;869053;Thane of Haafingar;"Befriend the Jarl of Haafingar 
+Assist five citizens of Haafingar 
+Purchase Proudspire Manor 
+Return to the Jarl"
+245;skyrim;869055;Thane of Hjaalmarch;"Befriend the Jarl of Hjaalmarch 
+Assist three citizens of Hjaalmarch 
+Return to the Jarl"
+246;skyrim;869081;Thane of the Pale;"Befriend the Jarl of The Pale 
+Assist three citizens of The Pale 
+Return to the Jarl"
+247;skyrim;869071;Thane of the Reach;"Befriend the Jarl of The Reach 
+Assist five citizens of The Reach 
+purchase Vlindrel Hall 
+Return to the Jarl"
+248;skyrim;869126;Thane of Whiterun;"Assist five citizens of Whiterun 
+Purchase Breezehome 
+Return to the Jarl"
+249;skyrim;869087;Thane of Winterhold;"Befriend the Jarl of Winterhold 
+Assist three citizens of Winterhold 
+Return to the Jarl"
+250;skyrim;863832;That Was Always There;"Plant Viola's Gold Ring in Viola Giordano's House 
+Tell Revyn Viola's Gold Ring has been planted"
+251;skyrim;109544;The Affairs of Hagravens;Kill the Hagraven Petra
+252;skyrim;92607;The Battle for Fort Amol;"Join the men attacking Fort Amol 
+Take over Fort Amol by defeating the enemy"
+253;skyrim;71084;The Battle for Fort Dunstad;"Join the men attacking Fort Dunstad 
+Take over Fort Dunstad by defending the enemy"
+254;skyrim;71214;The Battle for Fort Greenwall;"Join the men attacking Fort Greenwall 
+Take over Fort Greenwall by defeating the enemy"
+255;skyrim;82122;The Battle for Fort Hraggstad;"Join the men attacking Fort Hraggstad 
+Take over Fort Hraggstad by defeating the enemy"
+256;skyrim;501001;The Battle for Fort Kastav;"Join the men attacking Fort Kastav 
+Take over Fort Kastav by defeating the enemy"
+257;skyrim;1038665;The Battle for Fort Neugrad;"Join the men attacking Fort Neugrad 
+Take over Fort Neugrad by defeating the enemy"
+258;skyrim;89693;The Battle for Fort Snowhawk;"Join the Men attacking Fort Snowhawk 
+Take over Fort Snowhawk by defeating the enemy"
+259;skyrim;89690;The Battle for Fort Sungard;"Join the men attacking Fort Sungard 
+Take over Fort Sungard by defeating the enemy"
+260;skyrim;68130;The Bedlam Job;"Steal 500 gold in goods from the specified city 
+Return to Delvin"
+261;skyrim;52009;The Black Star (Quest);"Visit the Shrine of Azura 
+Find the elven mage for Aranea's vision 
+Speak with Nelacar 
+Find Azura's Star 
+Bring the Star to Aranea or Nelacar 
+Speak to Azura (If brought to Aranea) 
+Tell Azura you're ready to enter the Star (If brought to Aranea) 
+Tell Nelacar you're ready to enter the Star (If brought to Nelacar) 
+Destroy Malyn Varen's soul"
+262;skyrim;58532;The Blessings of Nature;"Talk to Danica about the Gildergreen being destroyed 
+Retrieve Nettlebane 
+Bring Nettlebane to Danica 
+Retrieve Eldergleam sap 
+Follow Maurice (if taking sapling instead of sap) 
+Take sapling (if taking sapling instead of sap) 
+Return to Danica"
+263;skyrim;76437;The Bonds of Matrimony;"Speak to Maramal about arranging the wedding 
+Attend wedding ceremony"
+264;skyrim;63671;The Book of Love;"Talk to Fastred 
+Talk to Fastred's parents 
+Talk to Bassianus or Klimmek 
+Return to Dinya Balu 
+Talk to Calcelmo 
+Get advice from Yngvar 
+Deliver the poem 
+Deliver Faleen's letter 
+Return to Dinya Balu 
+Put on the Amulet of Mara 
+Talk to the long-dead lover 
+Find Fenrig 
+Bring Fenrig to Ruki 
+Return to Dinya Balu"
+265;skyrim;54306;The Break of Dawn;"Find Meridia's beacon 
+Bring Meridia's beacon to Mount Kilkreath 
+Replace the beacon 
+Guide Meridia's Light through the temple 
+Destroy Malkoran 
+Retrieve Dawnbreaker"
+266;skyrim;71871;The Burglary Job;"Retrieve the item from the wealthy home in the city 
+Return the item to Vex"
+267;skyrim;64388;The Cure for Madness;"Talk to Astrid 
+Search Cicero's room 
+Read Cicero's diary 
+Talk to Astrid 
+Behold Shadowmere 
+Locate Arnbjorn 
+Talk to Arnbjorn 
+Enter the Dawnstar Sanctuary 
+Kill Cicero 
+Kill Cicero, or leave the Sanctuary 
+Report back to Astrid"
+268;skyrim;63410;The Cursed Tribe;"Find out what's happening in Largashbur 
+Bring Troll Fat and a Daedra Heart to Atub 
+Observe Atub's ritual 
+Speak to Yamarz 
+Meet Yamarz at Fallowstone Cave 
+Protect Yamarz 
+Defeat the Giant 
+Take Shagrol's Warhammer back to Largashbur 
+Place Shagrol's Warhammer on the Shrine in Largashbur"
+269;skyrim;266530;The Dainty Sload;"Speak to Erikur. 
+Speak to Sabine Nytte at the East Empire Company docks. 
+Acquire Balmora Blue. 
+Plant the Balmora Blue on the Dainty Sload. 
+Speak to Erikur."
+270;skyrim;51382;The Dark Brotherhood Forever;"Approach the Night Mother 
+Speak with the contact 
+Kill the target"
+271;skyrim;44502;The Eye of Magnus;"Use the Staff of Magnus to enter the College of Winterhold 
+Reach the Hall of the Elements 
+Defeat Ancano 
+Talk to Tolfdir 
+Speak with Quaranir"
+272;skyrim;44497;The Fallen;"Learn shout to call Odahviing 
+Prepare the trap 
+Call Odahviing to Dragonsreach 
+Defeat and trap Odahviing 
+Interrogate Odahviing"
+273;skyrim;65850;The Fishing Job;"Retrieve the item from the target in a city 
+Return to Delvin"
+274;skyrim;65217;The Forgemaster's Fingers;"Find the Forgemaster's Fingers 
+Bring the Forgemaster's Fingers to the Orc chief"
+275;skyrim;54584;The Forsworn Conspiracy;"Go to the Shrine of Talos 
+Find evidence about Margret 
+Find evidence about Weylin 
+Obtain the key to Margret's room (optional) 
+Talk to Margret (optional, if alive) 
+Read Margret's Journal 
+Find evidence about Thonar 
+Obtain the key to Weylin's room (optional) 
+Read Weylin's Note 
+Find out who ""N"" is 
+Find evidence about Nepos 
+Read Thonar's Journal 
+Return to Eltrys 
+Read Nepos' Journal 
+Return to Eltrys"
+276;skyrim;101720;The Ghost of Old Hroldan;Bring Hjalti's Sword to the Ghost of Old Hroldan
+277;skyrim;11439;The Golden Claw (Skyrim);"Retrieve the Golden Claw 
+Cut Arvel down 
+Retrieve the Golden Claw 
+Find the secret of Bleak Falls Barrow 
+Bring the claw to Lucan"
+278;skyrim;154036;The Great Skyrim Treasure Hunt;Find the treasure shown on the map
+279;skyrim;62655;The Heart of Dibella;"Speak to Degaine 
+Steal the statue in the Temple of Dibella 
+Bring the statue to Degaine 
+Find the future Sybil of Dibella 
+Rescue Fjotra from the Forsworn 
+Bring Fjorta to the temple 
+Pray at Dibella's Altar"
+280;skyrim;68135;The Heist Job;"Retrieve the item from the business in the city 
+Return the item to Vex"
+281;skyrim;50699;The Horn of Jurgen Windcaller;"Retrieve the Horn of Jurgen Windcaller 
+Meet with whomever took the horn 
+Return the horn to Arngeir 
+Learn the Word of Power from Wulfgar 
+Receive the Greybeards' greeting"
+282;skyrim;52021;The House of Horrors;"Search the abandoned house 
+Find your reward 
+Find the priest of Boethia 
+Free Logrolf 
+Go to the abandoned house 
+Beat Logrolf into submission 
+Kill Logrolf 
+Speak to Molag Bal"
+283;skyrim;57331;The Jagged Crown (Quest);"Talk to Legate Rikke (If the Dragonborn joined the Stormcloaks: ""Galmar"") 
+Meet Legate Rikke (If the Dragonborn joined the Stormcloaks: ""Galmar"") outside of Korvanjund 
+Retrieve the Jagged Crown 
+Follow Legate Rikke (If the Dragonborn joined the Stormcloaks: ""Galmar"") 
+Find a way past the ambush 
+Follow Legate Rikke (If the Dragonborn joined the Stormcloaks: ""Galmar"") 
+Open the Hall of Stories door 
+Follow Legate Rikke (If the Dragonborn joined the Stormcloaks: ""Galmar"") 
+Find a way to open the gate 
+Defeat the Draugr 
+Defeat the enemy soldiers 
+Deliver the crown to General Tullius (If the Dragonborn joined the Stormcloaks: ""Ulfric Stormcloak"") 
+Get new orders"
+284;skyrim;56783;The Litany of Larceny;"Return the Queen bee Statue to Delvin 
+Return the Honningbrew Decanter to Delvin 
+Return the East Empire Shipping Map to Delvin 
+Return the Ship Model to Delvin 
+Return the Dwemer Puzzle Cube to Delvin 
+Return the Bust of the Gray Fox to Delvin 
+Return the Eye of the Falmer to Delvin"
+285;skyrim;68387;The Lost Expedition;"Recover Stromm's Diary 
+Recover Erj's Notes 
+Recover Krag's Journal 
+Recover Staubin's Diary 
+Re-activate Nchuand-Zel's automated defences 
+Find someone who knows about the expedition"
+286;skyrim;64443;The Lover's Requital;"Discover Svidi's whereabouts 
+Tell Sibbi Black-Briar about Lynly or lie to Sibbi Black-Briar about Lynly"
+287;skyrim;61578;The Man Who Cried Wolf;"Speak to Falk Firebeard in Solitude 
+Clear out Wolfskull Cave, killing the necromancers conducting the binding ritual 
+Return to Falk to get the reward"
+288;skyrim;54977;The Mind of Madness;"Gain access to the Pelagius Wing of the Blue Palace 
+Use the key to gain access to the Pelagius Wing 
+Search for Dervenin's master in the Pelagius Wing 
+Use the Wabbajack to escape from Pelagius' mind"
+289;skyrim;139286;The Missing Apprentices;Talk to Phinis Gestor and learn of the missing apprentices
+290;skyrim;65823;The Numbers Job;"Make changes in the ledger at the business in the city 
+Return to Delvin"
+291;skyrim;54313;The Only Cure;"Find Kesh at the Peryite shrine 
+Obtain some vampire dust 
+Obtain a deathbell flower 
+Obtain a silver ingot 
+Obtain a flawless ruby 
+Deliver the ingredients 
+Inhale the fumes 
+Kill Orchendor 
+Report Orchendor's death to Peryite"
+292;skyrim;72005;The Pale Lady (Quest);"Learn more about the theft in Frostmere Crypt (optional) 
+Find the stolen sword 
+Follow Kyr and Ra'jirr into the tunnels 
+Banish the Pale Lady (return the sword or kill the Pale Lady)"
+293;skyrim;62921;The Pursuit;"Meet Karliah at the Ragged Flagon 
+Follow Karliah 
+Speak to Brynjolf 
+Infiltrate Mercer's House, Riftweald Manor 
+Speak to Vex about Vald (optional) 
+Shoot the mechanism to lower the ramp (optional) 
+Discover evidence of Mercer's location 
+Speak to Brynjolf"
+294;skyrim;73851;The Raid;"Identify Riften's Skooma dealer 
+Report Sarthis Idren to the Jarl of Riften 
+Enter Riften Warehouse 
+Eliminate Sarthis Idren 
+Recover Skooma source information"
+295;skyrim;115825;The Savior of Selveni Nethri;Help Selveni Nethri escape the cave
+296;skyrim;71385;The Shill Job;"Plant the evidence in the wealthy home in the city 
+Return to Vex"
+297;skyrim;63903;The Silence Has Been Broken;"Speak with Astrid 
+Speak with Amaund Motierre 
+Talk to Rexus 
+Deliver the letter and amulet to Astrid 
+Show the amulet to Delvin Mallory 
+Report back to Astrid"
+298;skyrim;51449;The Silver Hand;"Talk to Skjor 
+Meet with Skjor at night 
+Enter The Underforge 
+Participate in the blood ritual 
+Talk to Aela 
+Kill the werewolf hunters 
+Talk to Aela"
+299;skyrim;119304;The Spiced Wine;"Convince Vittoria Vici to release the Spiced Wine shipment 
+Tell Evette San that Vittoria Vici agreed to release the shipment"
+300;skyrim;57929;The Staff of Magnus (Skyrim);"Enter Labyrinthian 
+Find the Staff of Magnus 
+Defeat the Dragon Priest 
+Retrieve the Staff of Magnus 
+Return to Tolfdir 
+Exit Labyrinthian 
+Escape the Thalmor 
+Find a way out of Labyrinthian 
+Return to Tolfdir"
+301;skyrim;901457;The Steward's Potion;Deliver the Stallion's Potion to Reburrus Quintilius
+302;skyrim;62995;The Straw that Broke;"Ask Wilhelm about Reyda 
+Locate Reyda's remains 
+Bring Reyda's Necklace to Narfi"
+303;skyrim;66915;The Sweep Job;"Clear the wealthy home in the city of valuables. 
+Return the valuables to Vex."
+304;skyrim;70416;The Taste of Death;"Speak to Verulus about the Hall of Dead 
+Investigate the Hall of the Dead 
+Tell Verulus the Hall of the Dead is safe 
+Clear the Draugr from Reachcliff Cave 
+Speak to Eola 
+Convince Verulus to follow you 
+Lead Verulus to the Shrine of Namira 
+Kill Verulus 
+Feast on Verulus"
+305;skyrim;54447;The Throat of the World;"Talk to Arngeir 
+Learn the ""Clear Skies"" Shout 
+Use the ""Clear Skies"" Shout 
+Talk to Paarthurnax 
+Learn the Word of Power from Paarthurnax 
+Talk to Paarthurnax"
+306;skyrim;49245;The Way of the Voice;"Speak to the Greybeards 
+Demonstrate your ""Unrelenting Force"" Shout 
+Speak to Arngeir 
+Learn the Word of Power from Einarth 
+Demonstrate your ""Unrelenting Force"" Shout 
+Learn the Word of Power from Borri 
+Demonstrate your ""Whirlwind Sprint"" Shout 
+Speak to Arngeir for further training"
+307;skyrim;64474;The Whispering Door;"Ask about Balgruuf's strange children 
+Find out what's wrong with Nelkir 
+Listen to the whispering door 
+Speak to Nelkir 
+Obtain the key to the whispering door 
+Open the whispering door 
+Retrieve the Ebony Blade"
+308;skyrim;66369;The White Phial (Quest);"Retrieve the White Phial 
+Bring the Phial to Nurelion 
+Speak to Quintus Navale"
+309;skyrim;70411;The Wolf Queen Awakened;"Speak to Styrr 
+Defeat Potema 
+Retrieve Potema's remains 
+Give Potema's remains to Styrr 
+Return to Falk Firebeard"
+310;skyrim;54452;The World-Eater's Eyrie;"Set Odahviing free 
+Talk to Odahviing 
+Reach Alduin's portal to Sovngarde 
+Enter Sovngarde"
+311;skyrim;64655;To Kill an Empire;"Report to Astrid 
+Report to Commander Maro 
+Report to Gianna 
+Report to Gianna while wearing a chef's hat 
+Make the Potage le Magnifique 
+Follow Gianna to the dining room 
+Kill the Emperor 
+Escape the Tower! 
+Return to the Sanctuary"
+312;skyrim;65190;Tolfdir the Absent-Minded;"Find Tolfdir's Alembic 
+Return Tolfdir's Alembic to him"
+313;skyrim;62325;Totems of Hircine;"Retrieve the Totem of Hircine 
+Take the Totem to the Underforge"
+314;skyrim;156996;Toying With The Dead;"Enter Yngvild 
+Retrieve Arondil's Journals 
+Return to Vekel"
+315;skyrim;79356;Trinity Restored;"Listen to Karliah 
+Meet Karliah at the standing stone 
+Follow Karliah 
+Activate the Armor Stone 
+Equip the Nightingale Armor 
+Stand on the vacant Floor Glyph 
+Speak to Karliah 
+Speak to Brynjolf"
+316;skyrim;246479;Trius' Trinket;"Search the wreck for a jewelry box 
+Return the box to Trius for the promised reward"
+317;skyrim;62738;Trouble in Skyrim;"Kill the leader of the location 
+Return to Farkas"
+318;skyrim;274320;Truth Ore Consequences;"Obtain ore sample from Filnjar 
+Return ore sample to Hafjorg"
+319;skyrim;44492;Unbound;"Make your way to the keep 
+Enter the Keep with Hadvar or Ralof 
+Escape Helgen 
+Find some equipment (Hadvar) 
+Loot Gunjar's body (Ralof) 
+Search the barrel for potions (optional) 
+Attempt to pick the lock of the cage (optional)"
+320;skyrim;59902;Under New Management;"Speak to Brynjolf about becoming the Guild Master 
+Proceed to the center of the Cistern 
+Become Guild Master for the Thieves Guild 
+Speak to Brynjolf about being Guild Master 
+Retrieve your Guild Leader Armor from Tonilia"
+321;skyrim;56984;Under Saarthal;"Meet Tolfdir outside Saarthal 
+Follow Tolfdir 
+Find Arniel Gane 
+Use the Saarthal Amulet to escape the trap 
+Follow Tolfdir 
+Tell Tolfdir about the vision 
+Follow Tolfdir 
+Find danger within Saarthal 
+Talk to the Arch-Mage"
+322;skyrim;1056628;Under the Table;"Deliver Mead to Wilhelm (option one) 
+Show Mead to Indaryn (option two)"
+323;skyrim;61478;Unfathomable Depths;"Speak to From-Deepest-Fathoms 
+Take the lexicon to Avanchnzel"
+324;skyrim;72230;Visit the Museum in Dawnstar;Visit the Museum in Dawnstar
+325;skyrim;54901;Waking Nightmare;"Follow Erandur to Nightcaller Temple 
+Speak to Erandur 
+Follow Erandur 
+Follow Erandur to the Library 
+Speak to Erandur 
+Locate The Dreamstride 
+Speak to Erandur 
+Follow Erandur to the laboratory 
+Speak to Erandur 
+Locate Vaermina's Torpor 
+Speak to Erandur 
+Drink Vaermina's Torpor 
+Release the Miasma 
+Disable the Magical Barrier 
+Speak to Erandur 
+Follow Erandur to the Skull of Corruption 
+Defeat Veren and Thorek 
+Speak to Erandur 
+Wait for Erandur to dispel the barrier 
+Murder Erandur or allow Erandur to complete his ritual 
+Take the Skull of Corruption (optional)"
+326;skyrim;64059;Where You Hang Your Enemy's Head;Employ Delvin Mallory's services
+327;skyrim;63539;Whispers in the Dark;"Hide in the Night Mother's coffin 
+Eavesdrop on Cicero 
+Talk to Cicero 
+Talk to Astrid 
+Receive a side contract from Nazir"
+328;skyrim;57770;With Friends Like These...;"Kill one of the captives 
+Speak with Astrid 
+Enter the Dark Brotherhood Sanctuary 
+Speak with Astrid"
+329;skyrim;160546;Ysolda's Shipment;Speak to Ysolda about Sleeping Tree Sap
+0;wicher_contracts;24948;Contract: Deadly Delights;"Talk to the guard. 
+Get information from the medic. 
+Examine the crime scene using your Witcher Senses. 
+Follow the tracks using your Witcher Senses. 
+Talk to the brothel owner. 
+If Axii isn't used: 
+Find a way into the house. 
+Confront the succubus. 
+If Geralt kills the succubus: 
+Collect your reward from the guard."
+1;wicher_contracts;55540;Contract: Doors Slamming Shut;"Talk to Kurt Dysart. 
+Travel to the haunted mansion. 
+Investigate the haunted mansion using your Witcher Senses. 
+Investigate the basement using your Witcher Senses. 
+Read the diary from the ruined house. 
+Find the earth elemental. 
+Deactivate the magic barrier. 
+Kill the earth elemental. 
+Take a trophy from the earth elemental. 
+Collect your reward from Kurt Dysart."
+2;wicher_contracts;59433;Contract: Dragon;"Talk to the village elder of Fyesdal. 
+Talk to the victims' mother. 
+Examine the victims' bodies using your Witcher Senses. 
+Use your Witcher Senses to follow the monster's tracks to the site of the attack. 
+Follow the monster's tracks using your Witcher Senses. 
+Talk to the village elder in Fyesdal about bait. 
+Guide the sheep to the forktail's nest. 
+Kill the forktail. 
+Take a trophy from the forktail. 
+Return to the elder in Fyresdal for your reward."
+3;wicher_contracts;53305;Contract: Here Comes the Groom;"If quest is started from the notice: 
+Explore the caves on Spikeroog using your Witcher Senses. 
+Find Melusine in the caves. 
+Kill the monster. 
+Take a trophy from the monster. 
+If quest is started at the cave: 
+Collect your reward from Kevan. 
+If Geralt agrees to tell Britt:"
+4;wicher_contracts;42728;Contract: Jenny o' the Woods;"Talk to the ealdorman of Midcopse. 
+Interrogate the witnesses. 
+Search the nearby fields using your Witcher Senses. 
+Use your Witcher Senses to determine what happened to the dragged body. 
+Read the letter you found in the shallow grave. 
+Ask the ealdorman about the lovers. 
+Find the lovers' meeting spot. 
+Burn Zula's letter and the dried blood from the knife. 
+Kill the monster. 
+Take a trophy from the monster. 
+Collect your reward."
+5;wicher_contracts;49940;Contract: Lord of the Wood;"Start quest by talking to Brean: 
+Investigate the site of the monster's attack. 
+Use your Witcher Senses to follow the sounds and find the leshen's totem. 
+Lure the leshen out by destroying its totem. 
+Kill the leshen. 
+Take a trophy. 
+If one started the quest by finding the wagon: 
+Collect your reward from Brean Hotsch."
+6;wicher_contracts;28466;Contract: Missing Brother;"Talk to Bruno. 
+Find the missing brother in the mine near the Inn at the Crossroads. 
+Explore the mine using your Witcher Senses. 
+Find out where the monsters in the mine are coming from using your Witcher Senses. 
+Use witcher Signs to destroy all the eggs. 0/12 
+Investigate the arachas' lair using your Witcher Senses. 
+Kill the arachas. 
+Take a trophy from the arachas' body. 
+Collect your reward."
+7;wicher_contracts;30352;Contract: Missing Miners;"If quest is started at the notice: 
+Investigate the area around the missing miners' camp using your Witcher Senses. 
+Talk to the rock troll and decide his fate. 
+Kill the rock troll. 
+If you choose to kill the rock troll: 
+If you started the quest at the camp first: 
+Spared the troll: 
+Collect your reward."
+8;wicher_contracts;31540;Contract: Missing Son;"If quest is started through the notice or Odhen: 
+Find the fiend's lair using your Witcher Senses. 
+Kill the fiend. 
+Collect a trophy from the fiend. 
+If quest is started by finding the fiend: 
+If quest is started through the notice or Odhen: 
+Collect your reward from Odhen."
+9;wicher_contracts;43014;Contract: Muire D'yaeblen;"If quest is started by talking to Bjorg: 
+Investigate the drowners' liar using your Witcher Senses. 
+Prepare a potion using drowner pheromones and use it to hide your scent. 
+Hide in the water hag's lair and wait for the monster to return. 
+Kill the water hag. 
+Take a trophy from the water hag. 
+If quest is started by finding Abaya first: 
+Collect your reward from the shipbuilder."
+10;wicher_contracts;49890;Contract: Mysterious Tracks;"Find the notice first: 
+Explore the cave using your Witcher Senses. 
+Acquire fiend dung to use as bait. 
+Prepare some bait based on the alchemy formula. 
+Pour the bait around the hill. 4/4 
+Wait in the cave for the chort to catch the scent. 
+Kill the chort. 
+Take a trophy from the chort. 
+Found the tracks/cave first: 
+Collect your reward for killing the chort."
+11;wicher_contracts;49246;Contract: Patrol Gone Missing;"Talk to the contract issuer. 
+Go to the abandoned camp. 
+Search the area using your Witcher Senses. 
+Kill the draconid. 
+Take a trophy. 
+Return to the Nilfgaardian camp."
+12;wicher_contracts;61789;Contract: Phantom of the Trade Route;"Talk to the refugee in Benek first: 
+Explore the cave using your Witcher Senses. 
+Find the wyvern's nest. 
+Destroy the wyvern's nest. 0/2 
+Wait for the royal wyvern to take the bait. 
+Kill the royal wyvern. 
+Take a trophy from the royal wyvern. 
+If you didn't talk to the refugee in Benek first: 
+Collect your reward."
+13;wicher_contracts;50961;Contract: Shrieker;"Start quest from notice: 
+Drive the monster out of its lair with a Samum, Grapeshot or Dancing Star bomb. 
+Chase down the monster. 
+Kill the monster. 
+Take a trophy from the shrieker. 
+If quest is started from the tracks/cave: 
+Collect your reward from the contract issuer."
+14;wicher_contracts;40566;Contract: Skellige's Most Wanted;"If Geralt found the contract first: 
+Find the site of the monsters' attack. 
+Search the attack site using your Witcher Senses. 
+Find the place where the boulder started. 
+Follow the monster's tracks using your Witcher Senses. 
+Go to the conspirators' meeting spot at night. 
+If Geralt gives evidence of being merciful to monsters: 
+If Geralt doesn't give evidence:"
+15;wicher_contracts;43774;Contract: Strange Beast;"If Geralt talks to Thorleif before starting the quest: 
+Investigate the ambush site using your Witcher Senses. (25 ) 
+Follow the tracks using your Witcher Senses. 
+Explore the cave. 
+Kill the nekkers in the nest to provoke their pack leader. 
+Take a trophy from the nekker warrior. 
+If Hagubman is killed before talking to Thorleif: 
+Collect your reward."
+16;wicher_contracts;41952;Contract: Swamp Thing;"Find the notice first: 
+Find out what's killing people in the fog. 
+Use the Eye of Nehaleni to see through the illusion. 
+Navigate the illusions to find the foglet. 
+Use the Eye of Nehaleni to see through the illusion. 
+Kill the foglet. 
+Take a trophy from the foglet's body. 
+Collect the reward for the foglet. 
+If you agree to wait a week:"
+17;wicher_contracts;40544;Contract: The Apiarian Phantom;"Ask Holofernes Meiersdorf about the contract on the Apiarian Phantom. 
+Follow the halfling. 
+Examine the area in search of clues using your Witcher Senses. 
+Follow the footprints using your Witcher Senses. 
+Search the area around the lake using your Witcher Senses. 
+Follow the tracks using your Witcher Senses. 
+Open the basement. 
+Defeat the hound of the Wild Hunt. 
+Take a trophy from the hound of the Wild Hunt. 
+Collect your reward from Holofernes Meiersdorf."
+18;wicher_contracts;25654;Contract: The Beast of Honorton;"Talk to the ealdorman of Honorton about his contract for a witcher. 
+Kill the necrophages."
+19;wicher_contracts;36739;Contract: The Creature from Oxenfurt Forest;"Start quest by finding the notice: 
+If you find the nest during the day: 
+Kill the griffin. 
+Take a trophy from the griffin. 
+Start quest by finding the griffin: 
+Collect your reward from Hans."
+20;wicher_contracts;41205;Contract: The Griffin from the Highlands;"Find the archgriffin using your Witcher Senses and kill it 
+Take a trophy from the archgriffin 
+Take the archgriffin trophy to the baron's quartermaster"
+21;wicher_contracts;36496;Contract: The Merry Widow;"Start quest from notice: 
+Investigate the lair using your Witcher Senses. 
+Take the skulls. 
+Put the skulls in the cemetery and wait for the grave hag to come. 
+Kill the grave hag. 
+Take a trophy. 
+If quest is started from the hut: 
+Collect your reward from the gravedigger."
+22;wicher_contracts;38238;Contract: The Mystery of the Byways Murders;"Read the notice: 
+Find out what happened in Byways. 
+Deal with the ghouls prowling the village. 
+Find the surviving villagers. 
+Investigate further: 
+If Milan was talked to first:"
+23;wicher_contracts;36277;Contract: The Oxenfurt Drunk;"Talk to the Redanian officer. 
+Talk to the witness. 
+Talk to the medic. 
+Talk to the innkeep and get drunk in order to bait the katakan. 
+Walk around near the tavern in order to provoke the katakan. 
+Kill the katakan. 
+Track down the katakan using your Witcher Senses. 
+Get inside the katakan's hideout. 
+Kill the katakan. 
+Take a trophy. 
+Collect your reward from the Redanian officer."
+24;wicher_contracts;42829;Contract: The Phantom of Eldberg;"If you talk to Jorund first: 
+Explore the lighthouse using your Witcher Senses. 
+If you found the letter: 
+Talk to Mikkjal about the penitent. 
+Defend Mikkjal from the penitent until he lights the lighthouse brazier. 
+Kill the penitent. 
+Take a trophy from the penitent. 
+If you investigated before talking to Jorund: 
+Collect your reward from Jorund."
+0;wicher_contracts;45825;A Plea Ignored;"Read the letter you found. 
+Find the valuables in the burned-down home using your Witcher Senses."
+1;wicher_contracts;45821;An Unfortunate Turn of Events;"Read the letter you found. 
+Find the cargo that fell off the ferryman's boat by using your Witcher Senses."
+2;wicher_contracts;45824;Battlefield Loot;"Read the notes you found. 
+Follow the blood trail from the battlefield to the loot using your Witcher Senses."
+3;wicher_contracts;45832;Blood Gold;"Read the letter you found. 
+Follow the blood trail using your Witcher Senses to find the hidden treasure."
+4;wicher_contracts;45837;Coast of Wrecks (quest);"Read the letter you found. 
+Find the cargo using your Witcher Senses. 4/4"
+5;wicher_contracts;45842;Deserter Gold;"Read the letter you found. 
+Find the deserters' cache using your Witcher Senses."
+6;wicher_contracts;45843;Dirty Funds;"Read the letter you found 
+Find the bandits' treasure using your Witcher Senses"
+7;wicher_contracts;45828;Don't Play with the Gods;"Read the notes you found. 
+Search for treasure in the elven ruins using your Witcher Senses."
+8;wicher_contracts;45833;Dowry;"Read the letter you found. 
+Find the treasure chest using your Witcher Senses."
+9;wicher_contracts;45839;Family Fortune;"Read the well-worn letter. 
+Find the treasure in the shipwreck using your Witcher Senses."
+10;wicher_contracts;45838;Freya Be Praised!;"Read the crumpled note. 
+Find the treasure chest using your Witcher Senses."
+11;wicher_contracts;45829;Hidden from the World;"Read the letter you found. 
+Find the hidden goods mentioned in the letter by using your Witcher Senses."
+12;wicher_contracts;55827;Hidden in the Depths;"Read the letter you found. 
+Find the treasure hidden in the underwater cave using your Witcher Senses."
+13;wicher_contracts;45840;Inheritance;"Read the letter you found. 
+Find the treasure chest using your Witcher Senses."
+14;wicher_contracts;60198;Ironsides' Treasure;"Read the notes you found. 
+Find the sunken treasure using your Witcher Senses."
+15;wicher_contracts;45826;Lost Goods;"Read the letter you found. 
+Find the lost chest using your Witcher Senses."
+16;wicher_contracts;56584;Nilfgaardian Treasure;"Read the notes you found. 
+Find the sunken treasure using your Witcher Senses."
+17;wicher_contracts;54399;Not Only Eagles Dare;"Read the note you found. 
+Find the underwater treasure using your Witcher Senses."
+18;wicher_contracts;45836;Out of the Frying Pan, into the Fire;"Read the notes you found. 
+Search the dead man's hiding place using your Witcher Senses."
+19;wicher_contracts;45841;Pearls of the Coast;"Read the unsent letter. 
+Search for treasure on the sea floor using your Witcher Senses."
+20;wicher_contracts;60197;Precious Haul;"Read the document you found. 
+Find the sunken cargo using your Witcher Senses."
+21;wicher_contracts;45830;Queen Zuleyka's Treasure;"Read the letter you found. 
+Find the sunken treasure using your Witcher Senses."
+22;wicher_contracts;54326;Ruins, Hidden Treasure, You Know...;"Unfold the treasure map. 
+Use the map to find the treasure."
+23;wicher_contracts;63507;Scavenger Hunt: Bear School Gear;"Find all the diagrams to Bear School witcher gear. 7/7 
+Search the ruins of Clan Tuirseach's castle. 
+Search the ruins of Fort Etnir. 
+Search the ruins of the inn. 
+Search the sirens' cave."
+24;wicher_contracts;92728;Scavenger Hunt: Bear School Gear/Part 1;"Find the silver sword upgrade diagram using your Witcher Senses. 
+Find the boots upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses."
+25;wicher_contracts;92729;Scavenger Hunt: Bear School Gear/Part 2;"Find the gauntlets upgrade diagram using your Witcher Senses. 
+Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the trousers upgrade diagram using your Witcher Senses."
+26;wicher_contracts;92730;Scavenger Hunt: Bear School Gear/Part 3;"Find the silver sword upgrade diagram using your Witcher Senses. 
+Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses."
+27;wicher_contracts;98929;Scavenger Hunt: Bear School Gear/Part 4;"Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses."
+28;wicher_contracts;92743;Scavenger Hunt: Cat School Gear/Part 1;"Find the boots upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+29;wicher_contracts;92744;Scavenger Hunt: Cat School Gear/Part 2;"Find the gauntlets upgrade diagram using your Witcher Senses. 
+Find the trousers upgrade diagram using your Witcher Senses. 
+Find the steel sword upgrade diagram using your Witcher Senses."
+30;wicher_contracts;92745;Scavenger Hunt: Cat School Gear/Part 3;"Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+31;wicher_contracts;92746;Scavenger Hunt: Cat School Gear/Part 4;"Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+32;wicher_contracts;92747;Scavenger Hunt: Griffin School Gear/Part 1;"Find the boots upgrade diagram using your Witcher Senses. 
+Find the trousers upgrade diagram using your Witcher Senses. 
+Find the steel sword upgrade diagram using your Witcher Senses."
+33;wicher_contracts;92748;Scavenger Hunt: Griffin School Gear/Part 2;"Find the armor upgrade diagram using your Witcher Senses. 
+Find the gauntlets upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+34;wicher_contracts;92749;Scavenger Hunt: Griffin School Gear/Part 3;"Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+35;wicher_contracts;92750;Scavenger Hunt: Griffin School Gear/Part 4;"Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the armor upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+36;wicher_contracts;92751;Scavenger Hunt: Wolf School Gear/Part 1;"Find the silver sword upgrade diagram using your Witcher Senses. 
+Find the boots upgrade diagram using your Witcher Senses. 
+Find the chest armor upgrade diagram using your Witcher Senses."
+37;wicher_contracts;92752;Scavenger Hunt: Wolf School Gear/Part 2;"Find the gauntlets upgrade diagram using your Witcher Senses. 
+Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the trousers upgrade diagram using your Witcher Senses."
+38;wicher_contracts;92753;Scavenger Hunt: Wolf School Gear/Part 3;"Find the chest armor upgrade diagram using your Witcher Senses. 
+Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+39;wicher_contracts;92754;Scavenger Hunt: Wolf School Gear/Part 4;"Find the gauntlets upgrade diagram using your Witcher Senses. 
+Find the boots upgrade diagram using your Witcher Senses. 
+Find the trousers upgrade diagram using your Witcher Senses."
+40;wicher_contracts;92755;Scavenger Hunt: Wolf School Gear/Part 5;"Find the steel sword upgrade diagram using your Witcher Senses. 
+Find the chest armor upgrade diagram using your Witcher Senses. 
+Find the silver sword upgrade diagram using your Witcher Senses."
+41;wicher_contracts;92756;Scavenger Hunt: Wolf School Gear/Part 6;"Find the gauntlets upgrade diagram using your Witcher Senses. 
+Find the boots upgrade diagram using your Witcher Senses. 
+Find the trousers upgrade diagram using your Witcher Senses."
+42;wicher_contracts;63418;Shortcut;"Read the notes you found. 
+Search for treasure on the bottom of the lake using your Witcher Senses."
+43;wicher_contracts;45835;Sunken Chest;"Read the notes you found. 
+Find the sunken treasure chest using your Witcher Senses."
+44;wicher_contracts;45823;Sunken Treasure;"Read the letter you found. 
+Find the sunken treasure using your Witcher Senses."
+45;wicher_contracts;38258;Temerian Valuables;"Read the document you found. 
+Find the lost Temerian treasure using your Witcher Senses."
+46;wicher_contracts;45827;The Dead Have No Defense;"Read the document you found. 
+Find the treasure in the catacombs using your Witcher Senses."
+47;wicher_contracts;45834;The Things Men Do For Coin...;"Read the letter you found. 
+Find the looters' valuables using your Witcher Senses."
+48;wicher_contracts;45822;Tough Luck;"Read the letter you found. 
+Find valuables near the destroyed wagon using your Witcher Senses."
+49;wicher_contracts;44504;Unlucky's Treasure;"Read the document you found on the body. 
+Search the area using your Witcher Senses to find the treasure."
+50;wicher_contracts;57277;X Marks the Spot;"Unfold the map. 
+Follow the map to find the treasure."
+0;wicher_contracts;39826;A Mysterious Passenger;Talk to Donar about the ugly creature Skjall saw.
+1;wicher_contracts;21769;A Poet Under Pressure;"(Optional) Ask Dijkstra to help rescuing Dandelion 
+Meet Zoltan at the site of the ambush 
+Use your Witcher Senses to pick up the trail 
+Ask if anyone from the camp has seen Dandelion's abductor 
+Explore the area in front of the hut in the woods 
+Enter the halflings' home via the secret passage 
+Free Dandelion 
+Defeat the witch hunter 
+Untie Dandelion"
+2;wicher_contracts;20893;A Princess in Distress;"Find the pellar's goat using the bell and your Witcher Senses. 
+Bring the goat to the pellar. 
+Use the bell and lead the goat to the pellar. 
+If Geralt didn't kill the bear beforehand:"
+3;wicher_contracts;40301;Bald Mountain (quest);"Find a way to the mountain's summit. 
+Talk to Thecla and get permission to climb the mountain. 
+Retrieve the coin Thecla threw in the water by using your Witcher Senses. (300) 
+Give the coin to Thecla. 
+Travel the path to the peak of Bald Mountain. 
+Defeat Fugas. 
+Penetrate to the heart of the tree's roots. 
+Kill the three Crones. 
+Use Blink to strike all three Crones and disturb their spell. 
+Find Imlerith. 
+Kill Imlerith. (1000 awarded for killing Imlerith) 
+Talk to Ciri once you are ready to go to Novigrad."
+4;wicher_contracts;24677;Battle Preparations;"Meet Avallac'h on the ship. 
+Find the Sunstone. (Starts The Sunstone) 
+Pick Fringilla up on the emperor's ship. (Starts Veni Vidi Vigo) 
+Find out if Avallac'h's hiding something. (Starts Child of the Elder Blood) 
+Help Ciri confront her past. (Starts Skjall's Grave) 
+Let Avallac'h know everything's ready."
+5;wicher_contracts;24673;Blindingly Obvious;"Go to the fountain near the Passiflora. 
+Go to the bathhouse with Triss. 
+Look for Philippa in the bathhouse. 
+Catch Philippa Eilhart. 
+Sneak up on Philippa without making too much noise."
+6;wicher_contracts;24671;Blood on the Battlefield;"Talk to Avallac'h about what to do next. (50 ) 
+If Geralt chooses snowball fight: 
+Return to Ciri when you're ready to hit the road."
+7;wicher_contracts;20890;Bloody Baron (quest);"Go to the baron's castle. 
+Find the baron. 
+If Geralt takes the other way in: 
+If Geralt is allowed straight in: 
+Talk to the baron."
+8;wicher_contracts;20902;Broken Flowers;"Go to the Rosemary and Thyme. 
+Help Zoltan chase off the tramps. 
+Search the ground floor for clues using your Witcher Senses. 
+Read Dandelion's planner. 
+Talk to Zoltan. 
+Talk to Vespula. 
+Talk to Elihal. 
+Talk to Marabella. 
+Talk to Rosa var Attre. 
+Talk to Molly. 
+Consult with Zoltan. 
+Meet Zoltan in the Kingfisher Inn after sundown. 
+Talk to Zoltan."
+9;wicher_contracts;39917;Brothers In Arms: Nilfgaard;Talk to Emhyr var Emreis.
+10;wicher_contracts;39916;Brothers In Arms: Novigrad;"Talk to Zoltan. 
+Talk to Roche. 
+Talk to Dijkstra. 
+Talk to Triss. 
+Help Triss finish what she has to do in Novigrad. 
+Help Roche with his problem concerning Ves."
+11;wicher_contracts;39918;Brothers In Arms: Skellige;"Talk to Hjalmar. 
+Talk to Ermion. 
+Talk to Cerys. 
+Talk to Crach. 
+Help Cerys unravel the riddle of Udalryk's madness. 
+Help Hjalmar with his expedition to kill the giant of Undvik. 
+Help resolve the matter of succession to the Skellige throne."
+12;wicher_contracts;39915;Brothers In Arms: Velen;"Talk to Keira Metz. 
+Help Keira take care of her business in Velen."
+13;wicher_contracts;24680;Child of the Elder Blood;"Travel to the island where Avallac'h's laboratory is located. 
+Talk to Yennefer. 
+Wait for the door to open. 
+Neutralize the golem. 
+Explore Avallac'h's laboratory using your Witcher Senses. 
+Talk to Yennefer. 
+Talk to Ciri. 
+Search the laboratory using your Witcher Senses. 
+Meet Ciri outside the laboratory."
+14;wicher_contracts;24658;Ciri's Story: Breakneck Speed;"Flee towards Temple Isle. 
+Mount another horse."
+15;wicher_contracts;20899;Ciri's Story: Fleeing the Bog;Escape from Crookback Bog.
+16;wicher_contracts;20895;Ciri's Story: Out of the Shadows;"Kill the basilisk. 
+Get to the top of the tower and rescue the baron."
+17;wicher_contracts;20891;Ciri's Story: The King of the Wolves;"Follow the riverbed and find help. 
+Kill the wolves. 
+Follow Gretka. 
+Protect Gretka from the wolves. (2x) 
+Gather wolfsbane. 
+Gather fool's parsley. 
+Kill the werewolf."
+18;wicher_contracts;20894;Ciri's Story: The Race;Beat the baron in the horse race.
+19;wicher_contracts;24656;Ciri's Story: Visiting Junior;"Get on the roof 
+Get on the balcony 
+Enter through the window to Whoreson Junior's room 
+Kill Whoreson Junior 
+Escape from Whoreson Junior's hideout"
+20;wicher_contracts;24657;Count Reuven's Treasure;"Question Reuven about Dandelion's disappearance without raising any suspicions. 
+Return to Dijkstra when you're ready to help him. 
+Follow Dijkstra. 
+Return to Dijkstra when you're ready. 
+Investigate the site of the break-in using your Witcher Senses. 
+Follow the current. 
+User your Witcher Senses to search the sewer room for evidence. 
+Return to the bathhouse and summarize with Dijkstra. 
+Look for clues about the thieves in the bathhouse side rooms using your Witcher Senses. 
+Go to Margrave Henckel's house. 
+Search Margrave Henckel's house using your Witcher Senses. 
+Solve the riddle from the mysterious note. 
+Investigate the other room using your Witcher Senses. 
+Search the hidden room using your Witcher Senses. 
+Check what's going on downstairs. 
+Meet Triss at the Eternal Fire shrine near the harbor around midnight. 
+Follow the witch hunter leader. 
+If Geralt failed at any point in the conversations: 
+If Geralt successfully got information from Menge: 
+Find a way out of the witch hunters' outpost. 
+Tell Dijkstra what you learned. 
+If Geralt didn't get the information about Dandelion from Menge: 
+Talk to Priscilla."
+21;wicher_contracts;24659;Destination: Skellige;"Find a boat headed to Skellige. 
+Look for the ship's captain at the Golden Sturgeon. 
+Sail to Skellige with Captain Wolverstone. 
+Defeat the pirates. 
+Go to the port near Kaer Trolde. 
+Teach Steingrim a lesson. (optionally)"
+22;wicher_contracts;24665;Disturbance;"Find and help Yennefer. 
+If Geralt rejected Yennefer in The Last Wish (quest) and chooses to argue with Yennefer in the beginning of this quest, she will teleport Geralt to the lake near the Kaer Morhen keep 
+Find the source of the magical disturbance using the potestaquisitor. 
+Let Yennefer know you removed the source of the disturbance."
+23;wicher_contracts;24661;Echoes of the Past;"Meet Yennefer at the site of the magic cataclysm. 
+Talk to Yennefer. 
+Help Yennefer kill the foglets. 
+Follow Yennefer. 
+Use the Mask of Uroboros. 
+Use the Mask of Uroboros. 
+Use the Mask of Uroboros. 
+Use the Mask of Uroboros. 
+Look for a body."
+24;wicher_contracts;20892;Family Matters;"Follow the baron. 
+Use your Witcher Senses to search the room. 
+Use your Witcher Senses to locate where the scent is coming from. 
+Talk to the baron about what you found. 
+Find the pellar's hut. 
+Talk to the pellar. 
+Lead the goat to the pellar. 
+Read the bestiary to learn more about botchlings. 
+Talk to the baron. 
+Save the stable hand and the horses trapped in the burning stable. (only if you choose to) 
+Defeat the baron in a fistfight. 
+Tell the baron to show you where he buried his child. 
+Follow the baron. 
+If Geralt kills the botchling: 
+If Geralt chooses to make it a lubberkin: 
+Look around the fisherman's hut. 
+Talk to the baron about his family. 
+Find Tamara, the baron's daughter, in Oxenfurt. 
+Talk to the baron about Tamara. 
+Investigate all remaining leads in Velen and find the Baron's wife. 
+Tell the baron what you've learned about Anna."
+25;wicher_contracts;24672;Final Preparations;"Help Ciri take care of her business in Novigrad. (Starts Payback) 
+Talk to Triss (Starts Blindingly Obvious ) 
+Talk to Avallac'h (Starts Through Time and Space ) 
+Talk to Yennefer (Starts The Great Escape ) 
+Meet Yennefer and the Lodge of Sorceresses at Dandelion's inn"
+26;wicher_contracts;20777;Get Junior;"Go to the bathhouse and talk to Sigi Reuven. 
+Get undressed and put your clothing in the dresser. 
+Follow Happen. 
+Defeat the assassins. 
+Visit Whoreson Junior's arena. 
+Find Whoreson Junior's casino. 
+Find Whoreson Junior's hideout. 
+Talk to Dijkstra about Whoreson's ties to the Redanians. 
+Talk to Vernon Roche in the partisan camp. 
+Meet Roche by the bridge in Oxenfurt. 
+Enter the chess club with Roche. 
+Get inside Whoreson's hideout. 
+Kill Whoreson Junior's guards. 
+Search the guards' bodies 
+The next two objectives are mutually exclusive: 
+Search Whoreson Junior's residence. 
+Deal with Whoreson Junior (either spare him or kill him) 
+Tell Priscilla about your talk with Whoreson Junior."
+27;wicher_contracts;20896;Hunting a Witch;"Find the witch on your own or ask the residents of Midcopse about her. 
+If Geralt talks to the residents: 
+Find the witch's hut. 
+Talk to the witch in her hut. 
+Search the hut using your Witcher Senses. 
+Enter the portal in the witch's hut. 
+Find the witch."
+28;wicher_contracts;20887;Imperial Audience;"Get dressed and talk to the chamberlain. 
+Follow the chamberlain. 
+Talk to Yennefer. 
+Retrieve your equipment from the chamberlain."
+29;wicher_contracts;20888;In Ciri's Footsteps;"Find out if Ciri is in Velen. 
+Find out if Ciri is in Novigrad. 
+Find out if Ciri is in Skellige."
+30;wicher_contracts;20735;Kaer Morhen (quest);"Use your Witcher Senses to find the key to the bedroom door. 
+Go to the lower level. 
+Talk to Ciri. 
+(Optional) Join Ciri in a run along the ramparts down to the lower courtyard. 
+(Optional) Draw your sword. 
+(Optional) Aim at Vesemir and mark him as your target. 
+(Optional) Perform a series of fast attacks. 0/3 
+(Optional) Perform a series of strong attacks. 0/3 
+(Optional) Perform a series of dodges. 0/2 
+(Optional) Roll out of the way of Vesemir's blows. 0/2"
+31;wicher_contracts;20842;Ladies of the Wood;"Find the Crones of Crookback Bog. 
+Read ""The Ladies of the Wood."" 
+Use your Witcher Senses to find the shrine that marks the start of the Trail of Treats. 
+Go to the hut and talk to the boy. 
+Find a way to lure Gran away from the hut. 
+Ask the children in the swamp village about Johnny. 
+If Geralt plays hide and seek: 
+Look for Johnny in the swamp using your Witcher Senses. 
+Find Johnny's footprints. 
+Follow Johnny's footprints using your Witcher Senses. 
+Lure Johnny out of his burrow. 
+Follow Johnny. 
+Defeat the monsters. 
+Follow Johnny. 
+If Geralt hadn't yet retrieved the bottle: 
+Give the bottle to Johnny. 
+Follow Johnny to the swamp village. 
+Defeat the monsters. 
+Follow Johnny to the swamp village. 
+Talk to the ealdorman of Downwarren about the village's problems. 
+If Geralt didn't yet do The Whispering Hillock: 
+Solve Downwarren's problem. 
+Put the ealdorman's payment on the stone."
+32;wicher_contracts;20663;Lilac and Gooseberries;"Kill the ghouls. 
+Follow Vesemir. 
+Go to the tavern in White Orchard. 
+Ask travelers about Yennefer. 
+Ask the Nilfgaardians about Yennefer. 
+Complete the griffin contract. 
+Prepare to leave White Orchard with Vesemir."
+33;wicher_contracts;24662;Missing Persons;"Meet Yennefer on Hindarsfjall. (only shows if you didn't go with her right away) 
+Follow Yennefer to Lofoten. 
+Enter Freya's garden and look for Craven."
+34;wicher_contracts;24663;Nameless;"Search for signs of Craven near the sacred tree using your Witcher Senses. 
+Follow Craven's footsteps using your Witcher Senses. 
+Explore the further parts of the herbarium. 
+Use the lever to open the flood gates so you can continue further. 
+Jump into the well. 
+Get past the barricaded doors. 
+Find Craven using your Witcher Senses"
+35;wicher_contracts;24668;No Place Like Home;"Proceed to Kaer Morhen's main hall 
+Return to the witchers 
+Find Eskel using your Witcher Senses (25) 
+Examine the source of the noise 
+Search Yennefer's trunks 
+Put on Yennefer's trousers. (Warning: Be sure to take off equipped trousers before putting on Yennefer's. Otherwise it's very possible the trousers are lost (or located somewhere obscure in Kaer Morhen) after the quest has finished. Taking the trousers off manually allows players to re-equip them from inventory when they resume control.)"
+36;wicher_contracts;20901;Novigrad Dreaming;"Find the dreamer in the old house. 
+Search the attic. 
+Take the doll. 
+Examine the drawing. 
+Put the doll in the crib. 
+Find out why the door slammed shut. 
+Examine the oven. 
+Make Sarah leave: 
+Talk to the dreamer. 
+Meet Corinne at the Golden Sturgeon."
+37;wicher_contracts;24682;On Thin Ice;"Join Avallac'h and the sorceresses on Undvik. 
+Talk to Avallac'h when you're ready to fight. 
+Defeat Caranthir. 
+Kill Caranthir. 
+Swim to the surface. 
+Board the Naglfar. 
+Kill Eredin. 
+Follow Eredin into the portal. 
+Find Avallac'h."
+38;wicher_contracts;24675;Payback;"Wait for daylight. 
+Meet Ciri at the Gildorf market square. 
+Go with Ciri to see Whoreson Junior. 
+Follow Ciri into Whoreson Junior's hideout. 
+Follow Ciri. 
+Talk to Valdo. 
+Take part in the race. 
+Meet Ciri and Aegar near the Novigrad stables. 
+Sneak into the stables. 
+Find a way to open the stable doors from the inside using your Witcher Senses. 
+Calm the horses with the Axii Sign (3 horses)."
+39;wicher_contracts;20900;Pyres of Novigrad;"Visit Triss in her house. 
+Look for thieves on the main square and carefully follow them. 
+Talk with beggars about the King of Beggars. 
+Find an entrance into the sewers outside Novigrad. 
+Follow the thief to the King of Beggars' hideout. 
+Follow the thief to the King of Beggars' hideout. 
+Find the King of Beggars' hideout. 
+Meet with the King of Beggars. 
+Follow Triss. 
+Enter the basement. 
+Find the secret passage using your Witcher Senses, then open it. 
+Find the lost parcel using your Witcher Senses. 
+Give Triss the parcel. 
+Place rat traps around the warehouse - use your Witcher Senses to guide you. 3/3 
+Tell Triss you've completed your task. 
+Talk to Triss after she activates the spell. 
+Fight the thugs. 
+Leave the warehouse."
+40;wicher_contracts;24681;Skjall's Grave;Meet Ciri in the Hindarsfjall cemetery.
+41;wicher_contracts;30581;Something Ends, Something Begins (quest);"Talk to the werewolf.​​​​​​​ 
+(Optional) Follow Berem. 
+(Optional) Defeat the hunters. 
+Kill the last Crone."
+42;wicher_contracts;22057;Tedd Deireadh, The Final Age;"Follow Yennefer. 
+Get to the elven tower."
+43;wicher_contracts;24670;The Battle of Kaer Morhen;"Enter Kaer Morhen keep and begin the council. (500 ) 
+Exit the keep and join Lambert when you're ready to face the Wild Hunt. 
+Use dimeritium bombs or the Yrden Sign to close all the Hunt's portals in the woods around Kaer Morhen. (3 portals) 
+Kill the Wild Hunt warriors near the left portal in the forest. 
+Kill the Wild Hunt warriors near the center portal in the forest. 
+Kill the Wild Hunt warriors near the right portal in the forest. (500 ) 
+Run to Triss's aid on the battlements. 
+Defeat the warriors threatening Triss. 
+Return to Kaer Morhen. 
+Close the main gate. (500 ) 
+Retreat to the middle courtyard. 
+Defeat your opponents and retreat behind the main gate. 
+Get to Triss. 
+Help Triss fight the Hunt's warriors. 
+Defeat Caranthir's warriors. 
+Open the gate to Kaer Morhen's inner courtyard. 
+Use dimeritium bombs or the Yrden Sign to close the Hunt's portals and stop their attack on Kaer Morhen. (2 portals) 
+(Optional) Equip yourself with dimeritium bombs from Vesemir's supplies. 
+Help Triss fight the Wild Hunt by the gate to the inner courtyard. (1,000 )"
+44;wicher_contracts;20885;The Beast of White Orchard;"Ask the herbalist about buckthorn. 
+Ask the hunter where he found the bodies."
+45;wicher_contracts;23935;The Calm Before the Storm;"Follow Astrid to the sauna. 
+Leave your clothes in the changing room. 
+Follow Astrid. 
+[Optional] Jump into the water to cool off and regenerate. 
+[Optional] Drink a shot of Freya's Firewater to warm up. 
+Join Skjall in the stable. 
+Try to defeat the warriors of the Wild Hunt. 
+Get on a horse and flee towards Drowned Dead Rock. 
+Make it to Drowned Dead Rock while avoiding the riders of the Wild Hunt."
+46;wicher_contracts;24667;The Final Trial;"Find Lambert. 
+Return to Lambert when you're ready. 
+Follow Lambert. 
+Find the boat. 
+Kill the drowners. 
+Kill the water hag. 
+Get in the boat. 
+Sail across the lake with Lambert. 
+Check where the boy's voice is coming from. [optional] 
+Kill the foglets. 
+Enter the cave. 
+Go through the cave. 
+Kill Old Speartip. [optional] 
+Seek shelter in the tunnel. 
+Get past the blockage. 
+Put the phylactery on the altar. 
+Light the torches around the altar. 
+Get to the Circle of Elements."
+47;wicher_contracts;24674;The Great Escape;"Catch the runaway. (200 ) 
+(Optional) Ask Zoltan for help. 
+Meet Yennefer at the bridge into Oxenfurt. 
+Enter the prison through the well. 
+Search the ruins. 
+Find the missing part of the mechanism using your Witcher Senses. 
+Repair the mechanism and open the doors. 
+Enter the sewers. 
+Find the sorceress Margarita. 
+Get the key. 
+Search the commander's body and find the key to the cell door. 
+Open the cell. (300 ) 
+Get out of the prison. (300 )"
+48;wicher_contracts;21511;The Incident at White Orchard;Kill the bandits.
+49;wicher_contracts;24927;The Isle of Mists (quest);"Go to Skellige. 
+Talk to friends who could help defeat the Hunt and ask them to join your fight. 
+Get on a boat. 
+Travel to the Isle of Mists. 
+Follow the firefly. 
+Check what's in the hut. 
+Look for Ferenc along the coast. 
+Look for Ivo in the cave. 
+Look for Gaspard near the lighthouse. 
+Wake Gaspard up. 
+Bring Gaspard to the hut. 
+Return to the hut."
+50;wicher_contracts;24660;The King is Dead – Long Live the King;"Go to Yennefer's rooms and put on formal attire. 
+Put on new clothes for your meeting with Yennefer. 
+Meet Yennefer at the entrance to Kaer Trolde citadel. 
+Go with Yennefer to the wake inside Kaer Trolde. 
+Talk to Yennefer in private. 
+Beat Cerys to the top of the mountain. (optional) 
+Go to Ermion's workshop. 
+Explore the mysterious room using your Witcher Senses. 
+Defeat the aggressive beasts. 
+Find the Mask of Uroboros in Ermion's workshop. 
+Explore the secret chamber using your Witcher Senses. 
+Kill the earth elemental. 
+Look around for a way to escape from the trap."
+51;wicher_contracts;20889;The Nilfgaardian Connection;"Travel to Velen. 
+Go to the Inn at the Crossroads. 
+Ask about the agent called Hendrik at the Inn at the Crossroads. 
+Finish talking to the innkeep about the agent called Hendrik. 
+Look for the agent called Hendrik in the village of Heatherton. 
+Talk to the survivor and learn what happened in the village. 
+Find the agent called Hendrik. 
+Search the agent's hut using your Witcher Senses."
+52;wicher_contracts;22196;The Play's the Thing;"Tell Priscilla what you've learned about Dudu. 
+Take the script to Irina Renarde. 
+Head to the docks and hire ushers for the play. 
+(Optional) Recruit jugglers from the performing troupe called the Puffins. 
+Ger rid of the thugs lurking outside the Puffins' house. 
+Defeat the strongmen from Metinna. 
+Talk to Irina Renarde and start the play. 
+Talk to Dudu in Irina Renarde's room."
+53;wicher_contracts;24678;The Sunstone;"If either of the an Craite siblings is ruler of Skellige: 
+Or if Svanrige is king: 
+The next two objectives are mutually exclusive: 
+Talk to Yennefer. (Starts Child of the Elder Blood ) 
+Meet Philippa in the elven ruins. 
+Explore the elven ruins with Philippa Eilhart. 
+Exterminate the monsters. 
+Explore the elven ruins with Philippa Eilhart. 
+Set up the mirror system properly. 
+Examine the Sunstone."
+54;wicher_contracts;20898;The Whispering Hillock;"Find where the voice is coming from using your Witcher Senses. 
+Speak to the spirit in the cave beneath the Whispering Hillock. 
+If you decide to release it: 
+If you decide to kill it:"
+55;wicher_contracts;24676;Through Time and Space;"Join Avallac'h. 
+Follow Avallac'h. 
+Find the next passage. 
+Wait until the passage opens. 
+Kill the monsters. 
+Travel to the next world. 
+Find the next passage. 
+Find the next passage. 
+Get to the lighthouse. 
+Travel to the next world. (500 ) 
+Follow Avallac'h. 
+Talk to Ge'els."
+56;wicher_contracts;24666;To Bait a Forktail...;"Search for Eskel's tracks near the entrance to Kaer Morhen using your Witcher Senses . 
+Follow the tracks left by Eskel's horse using your Witcher Senses. 
+Examine the area around Eskel's horse for tracks using your Witcher Senses. 
+Follow Eskel's tracks using your Witcher Senses. 
+Look around for more tracks left by Eskel using your Witcher Senses. 
+Follow the smell using your Witcher Senses. 
+Follow Eskel's footprints using your Witcher Senses. 
+Fight the forktail. 
+Chase the forktail. 
+Follow the forktail's blood trail using your Witcher Senses. 
+Find and kill the forktail. 
+Return to Kaer Morhen. 
+Beat Eskel back to Kaer Morhen."
+57;wicher_contracts;24664;Ugly Baby;"If you have completed Family Matters before Nameless: 
+Tell the person minding the stables that you are taking Uma. 
+Collect Uma (125). 
+Talk to Lambert about journeying to the Circle of Elements. 
+Find Eskel and help him hunt the forktail. 
+Spend the evening with the other witchers. 
+Help Yennefer fix the megascope (50). 
+Remove the curse afflicting Uma."
+58;wicher_contracts;24669;Va Fail, Elaine;"Gather the necessary ingredients and brew the Decoctions of the Grasses. 
+Brew the Decoctions of the Grasses. 
+Bring Yennefer the potions."
+59;wicher_contracts;24679;Veni Vidi Vigo;Sneak onto the emperor's flagship under cover of darkness.
+60;wicher_contracts;20897;Wandering in the Dark;"Meet Keira at the entrance to the mage's hideout. 
+Follow Keira. 
+Go through Keira's portal. 
+Use your Witcher Senses to find Keira. 
+Destroy the rat nests with Signs or bombs. 0/2 
+Explore the elven ruins and look for information about the mage. 
+Explore the ruins and follow the swallow symbols. 
+Search the chamber using your Witcher Senses. 
+Use your Witcher Senses to find something associated with Ciri's horse Kelpie. 
+Rejoin Keira. 
+Explore new chambers with Keira. 
+Enter the portal. 
+Examine the next room using your Witcher Senses. 
+Fight the guardian. 
+Continue exploring the ruins and follow the swallow symbols. 
+Find a way to activate the portal using your Witcher Senses. 
+Enter the portal. 
+Follow the Wild Hunt's warriors. 
+Keep close to Keira and stay under her magic shield. 
+Kill the creatures emerging from the rift. (3 times) 
+Follow Keira. 
+Chase the Wild Hunt's warriors. 
+Fight the Wild Hunt warrior. 
+Look for information about Ciri using your Witcher Senses. 
+Use the Eye of Nehaleni to dispel the illusion."
+0;wicher_contracts;24763;A Barnful of Trouble;"Kill the ghouls. 
+Collect your reward."
+1;wicher_contracts;24733;A Dangerous Game;"Get the Fringilla Vigo, Isengrim, and Natalis cards for Zoltan. 
+Find a way into Zed's home. 
+Search Zed's home using your Witcher Senses. 
+Find Zed's ledger using your Witcher Senses. 
+Find the Isengrim card. 
+Bring the card and Zed's ledger to Zoltan. 
+Meet Zoltan in front of Caesar Bilzen's house. 
+Get the John Natalis card from Ravvy. 
+Search the body for the John Natalis card. 
+Search upstairs in Caesar Bilzen's home using your Witcher Senses. 
+Let Zoltan know you've found the card. 
+Bring the cards to Zoltan. 
+Go to the meeting with Zoltan's buyer. 
+Chase Duke. 
+Return to Zoltan."
+2;wicher_contracts;24744;A Deadly Plot;"Meet Dijkstra at the Passiflora. 
+Talk to the Redanian liaison. 
+Find the shoemaker's wagon. 
+Look around for tracks using your Witcher Senses. 
+Talk to the troll. 
+Find the trolls' cave. 
+Find the shoemaker in the trolls' cave. 
+Kill the trolls (optional). 
+Escort Thaler (25)."
+3;wicher_contracts;24722;A Dog's Life;"Follow the dog. 
+Defeat the bandits. 
+Search the abandoned house using the Witcher Senses."
+4;wicher_contracts;24719;A Favor for a Friend;"Find the ingredients from the missing transport using your Witcher Senses. (25) 
+Bring the ingredients to Keira. 
+Meet Keira when you have some time. (only shows if you give the ingredients then say ""maybe later"") 
+Race Keira to the meadow. 
+Find Keira using your Witcher Senses. (only if you agree to have sex with her)"
+5;wicher_contracts;24734;A Feast for Crows;Use your Witcher Senses to figure out what happened to the murdered man.
+6;wicher_contracts;24735;A Final Kindness;"Meet Triss at the Eternal Fire shrine near the harbor around midnight. 
+Get rid of the guards. 
+Retrieve Keira's body."
+7;wicher_contracts;21508;A Frying Pan, Spick and Span;"Break into the locked hut. 
+Look around inside the hut for a frying pan using your Witcher Senses. 
+Search the hut and use your Witcher Senses to determine what happened there. 
+Return the frying pan to the old woman."
+8;wicher_contracts;24725;A Greedy God;"Address the Allgod using the altar. 
+Find the Allgod using your Witcher Senses. 
+Convince the sylvan to change his ways. 
+If you choose to kill him: 
+Talk to the peasants."
+9;wicher_contracts;24784;A Hallowed Horn;"Track down the thieves and retrieve Holger's horn. 
+Find the stolen horn. 
+If you found the horn before the notice: 
+Bring the stolen horn to Mathios."
+10;wicher_contracts;24755;A Matter of Life and Death (The Witcher 3);"Meet Triss Merigold at her hideout. 
+Meet the Vegelbuds' servant at the fishmarket. He's wearing a blue shirt and has keys hanging form his belt. 
+Use your Witcher Senses to find the Vegelbuds' servant. Dressed in a blue tunic, he has keys strapped to his belt. 
+Follow the Vegelbuds' servant. 
+Help the servant fight off the bandits. 
+Buy a mask to wear to the masquerade ball. 
+Buy a fox mask for Triss Merigold. 
+Bring Triss the fox mask. 
+Visit Triss and prepare for the masquerade ball. 
+(Optional) Buy a new outfit. Doublet, trousers and boots. 
+Meet Ingrid Vegelbud. 
+Go to the Vegelbuds' residence after dusk and talk to the guard. 
+Find Albert Vegelbud. He's wearing a panther mask. 
+Wait on the bench with Triss Merigold. 
+Find Triss Merigold in the labyrinth. 
+Get out of the labyrinth. 
+Defeat the witch hunters. 
+Meet Triss and Albert in the stables. 
+Return to Triss Merigold."
+11;wicher_contracts;24760;A Tome Entombed;"If you refuse to help at any point: 
+Kill the vampire."
+12;wicher_contracts;24602;A Towerful of Mice;"Find a way to get to Fyke Isle. 
+Head toward the tower. 
+Explore the tower. 
+Find the mage Alexander's laboratory. 
+Use Keira's lamp to investigate Alexander's laboratory. 
+Use the magic lamp to contact Anabelle. 
+Bring Graham to Anabelle or take Anabelle's bones to Graham. 
+Tell Keira you've lifted the curse on Fyke Isle. 
+Investigate what happened."
+13;wicher_contracts;24750;A Walk on the Waterfront;Escort the nobleman.
+14;wicher_contracts;24770;A Warm Welcome;Escort the nobleman.
+15;wicher_contracts;43796;Abandoned Sawmill (quest);"Search the abandoned sawmill using your Witcher Senses. 0/4 
+Kill the leshen."
+16;wicher_contracts;24765;An Eye for an Eye;"Meet Roche at his camp 
+Meet Roche by Hanged Man's Tree 
+Save Ves 
+Kill all the Nilfgaardians"
+17;wicher_contracts;24718;An Invitation from Keira Metz;Talk to Keira.
+18;wicher_contracts;24796;An Unpaid Debt;"Meet with Simun in the hut by the lake. 
+Depending on Geralt's decision:"
+19;wicher_contracts;24775;Armed Assault;Knock on the door to check on the inhabitants of the house.
+20;wicher_contracts;24701;At the Mercy of Strangers;Knock on the door to check on the inhabitants of the house.
+21;wicher_contracts;24814;Berengar's Blade;"Find Berengar's notes in a chest in the western part of Kaer Morhen, to the west of the grindstone in the 2nd courtyard. 
+Read the notes. 
+Talk to Vesemir. 
+Explore the cave using your Witcher Senses. 
+Kill the chort. 
+Look for the Tor'haerne diagram, for a relic silver sword, in the cave using your Witcher Senses."
+22;wicher_contracts;24702;Bitter Harvest;"Protect the scavengers from monsters. 
+Talk to the scavengers' supervisor."
+23;wicher_contracts;24743;Black Pearl (quest);"Meet Nidas near the collapsed bridge to the north of Arinbjorn. 
+Follow Nidas to the pearl bed. 
+Find a black pearl using your Witcher Senses. 
+Return to Nidas. 
+Kill the drowners. 
+Meet Nidas in the Golden Sturgeon to collect your reward."
+24;wicher_contracts;24717;Blood Ties;"Talk to the quartermaster about the noblewoman's son. 
+Find Hrodeberth's body using your Witcher Senses. 
+Search the site for personal artifacts using your Witcher Senses. 
+Return to the mother."
+25;wicher_contracts;24777;Brave Fools Die Young;"Talk to the quartermaster about the noblewoman's son. 
+Find Hrodeberth's body using your Witcher Senses. 
+Search the site for personal artifacts using your Witcher Senses. 
+Return to the mother."
+26;wicher_contracts;24731;Cabaret;"Meet Dandelion at the Rosemary and Thyme. 
+Talk to Dandelion. 
+Borrow a prop sword from Madame Irina. 
+Meet Dandelion near Sophronia house after dusk. 
+Fight the Crimson Avenger. 
+Meet Dandelion in the morning at the Rosemary and Thyme. 
+Decide the decoration of the cabaret or let Priscilla decide 
+Find Dandelion. 
+Look for the key using your Witcher Senses. 
+Open the door to Polly's home. 
+Find Rautlec and get the placards from him. 
+Deal with Rautlec's creditors. 
+Talk to Rautlec in the Vegelbuds' residence. 
+Win the race (25 + 80 crowns + mastercrafted saddle). 
+Return to Dandelion."
+27;wicher_contracts;24778;Call of the Wild;"Meet Dandelion at the Rosemary and Thyme. 
+Talk to Dandelion. 
+Borrow a prop sword from Madame Irina. 
+Meet Dandelion near Sophronia house after dusk. 
+Fight the Crimson Avenger. 
+Meet Dandelion in the morning at the Rosemary and Thyme. 
+Decide the decoration of the cabaret or let Priscilla decide 
+Find Dandelion. 
+Look for the key using your Witcher Senses. 
+Open the door to Polly's home. 
+Find Rautlec and get the placards from him. 
+Deal with Rautlec's creditors. 
+Talk to Rautlec in the Vegelbuds' residence. 
+Win the race (25 + 80 crowns + mastercrafted saddle). 
+Return to Dandelion."
+28;wicher_contracts;24703;Caravan Attack;"Meet Dandelion at the Rosemary and Thyme. 
+Talk to Dandelion. 
+Borrow a prop sword from Madame Irina. 
+Meet Dandelion near Sophronia house after dusk. 
+Fight the Crimson Avenger. 
+Meet Dandelion in the morning at the Rosemary and Thyme. 
+Decide the decoration of the cabaret or let Priscilla decide 
+Find Dandelion. 
+Look for the key using your Witcher Senses. 
+Open the door to Polly's home. 
+Find Rautlec and get the placards from him. 
+Deal with Rautlec's creditors. 
+Talk to Rautlec in the Vegelbuds' residence. 
+Win the race (25 + 80 crowns + mastercrafted saddle). 
+Return to Dandelion."
+29;wicher_contracts;24732;Carnal Sins;"Talk to Dandelion. 
+Go meet with Von Gratz. 
+Go through the sewers to get to the mortuary. 
+Find the dwarven woodcarver's body using your Witcher Senses. 
+Find Eustace the corpse collector. (40 for getting extra information by using Axii) 
+Talk to Eustace. 
+Investigate the alley where Priscilla was attacked using your Witcher Senses. 
+Examine the place where the woodcarver died using your Witcher Senses. 
+Examine the woodcarver's workshop using your Witcher Senses. 
+Talk to the coroner. 
+Go to the Vegelbuds' residence. 
+Follow Ingrid to Patricia's room. 
+Chase the murderer. 
+Find Sweet Nettie at Crippled Kate's."
+30;wicher_contracts;24687;Ciri's Room;"Examine the room where Ciri stayed using your Witcher Senses. 
+Read the book entitled ""The Natural Obscurity of Curses"" from Ciri's room. 
+Go to the kitchen and talk to Gretka."
+31;wicher_contracts;38791;Collect 'Em All;Complete your collection of gwent cards.
+32;wicher_contracts;24779;Coronation;Attend the coronation under the sacred oak. (200)
+33;wicher_contracts;24780;Crime and Punishment;Help the prisoner.
+34;wicher_contracts;24688;Deadly Crossing;Help the prisoner.
+35;wicher_contracts;24704;Death By Fire;"Defeat the bandits. 
+If Geralt didn't let her out during the fight: 
+Talk to the survivor."
+36;wicher_contracts;24689;Defender of the Faith;"Fix all the damaged shrines. 2/3 
+Defeat the vandals."
+37;wicher_contracts;24745;Drunken Rabble;"Fix all the damaged shrines. 2/3 
+Defeat the vandals."
+38;wicher_contracts;24764;Empty Coop;"Find out more about the contract. 
+Find out what's stealing the old woman's chickens using your Witcher Senses. 
+Convince the old woman to take in the children."
+39;wicher_contracts;24690;Face Me if You Dare!;"Find out more about the contract. 
+Find out what's stealing the old woman's chickens using your Witcher Senses. 
+Convince the old woman to take in the children."
+40;wicher_contracts;23642;Faithful Friend;Catch the runaway horse.
+41;wicher_contracts;24705;Fake Papers;"See what the counterfeit pass seller's brother-in-law needs. 
+Return for the discounted pass."
+42;wicher_contracts;40181;Farting Trolls;"See what the counterfeit pass seller's brother-in-law needs. 
+Return for the discounted pass."
+43;wicher_contracts;24753;Fencing Lessons;"Go to the var Attre residence tomorrow to give Rosa fencing lessons. 
+Tell the guard captain about the fencing lessons. 
+Meet with Rosa. 
+Follow Rosa. 
+Defeat Rosa. 
+Use your Witcher Senses to find Rosa."
+44;wicher_contracts;24802;Finders Keepers (The Witcher 3);"Look for signs indicating the cargo's owner using your Witcher Senses. 
+Ask the shopkeeper in the Clan Brokvar village on Spikeroog about the shipwrecked cargo."
+45;wicher_contracts;28063;Fists of Fury: Champion of Champions;"Go to Spikeroog to find out about this mysterious opponent. 
+Enter the arena. 
+Kill or be killed."
+46;wicher_contracts;49310;Fists of Fury: Novigrad;"Defeat Georgius Georg. 
+Defeat Archibald O'Neill. 
+Defeat Iron Mortimer. 
+Fight the Tailor for the Novigrad title."
+47;wicher_contracts;50243;Fists of Fury: Skellige;"Defeat Valgard. 
+Defeat Grim. 
+Defeat Einar. 
+Try your strength against the Skellige champion - Olaf. 
+Enter the arena. 
+Defeat Olaf."
+48;wicher_contracts;43895;Fists of Fury: Velen;"Defeat Smithy. 
+Defeat Fishgulper. 
+Defeat Jonah. 
+Fight the sergeant for the Velen title."
+49;wicher_contracts;24809;Flesh for Sale;"If Geralt fights his way through: 
+Played along all the way through:"
+50;wicher_contracts;35671;Following the Thread (The Witcher 3);"Talk to the supervisor. 
+Examine the crime scene using your Witcher Senses. 
+Find the monster that is prowling the area by using your Witcher Senses. 
+Find the place where the monster emerged from the water by using your Witcher Senses. 
+Find the ekimmara's lair by following its tracks using your Witcher Senses. 
+Look for the ekimmara in its lair using your Witcher Senses. 
+Kill the ekimmara. (50) 
+Talk to Lambert. 
+Defeat the guardsmen. 
+Talk to Lambert. 
+Meet Lambert at the Seven Cats Inn. (80) 
+Go to Faroe and look for Hammond. 
+Ask Crach what he knows about Hammond. 
+Find Hammond. 
+Find the shrine where Hammond prays. 
+Kill Hammond. (? ) 
+Search Hammond's body. 
+Meet Lambert at the Nowhere Inn. 
+Meet Lambert on Hierarch Square, near Karadin's residence. (90) 
+Decide Jad Karadin's fate. (4  if spared) 
+Kill Jad Karadin. (If not spared)"
+51;wicher_contracts;30354;Fools' Gold;"Defeat the looters. 
+Use your Witcher Senses to examine the pigs in the village of Lurtch. 
+Talk to Yontek. 
+Find the hog hut. 
+Go inside the hog hut. 
+Look for clues in the hog hut using your Witcher Senses. 
+Talk to the pig. 
+Kill the wolves attacking the pigs. 
+Use the Axii sign to make the cursed pigs follow you. 
+Gather all the cursed pigs under the windmill. 9/9 
+Escort Yontek and the cursed pigs to the hog hut. 
+Herd size: 9/9"
+52;wicher_contracts;24800;For Fame and Glory;Help the warriors kill the necrophages in the old mine.
+53;wicher_contracts;24723;For the Advancement of Learning;"Find out what Keira's doing in the tower on Fyke Isle. 
+Find Keira. (50)"
+54;wicher_contracts;24691;Forefathers' Eve;"Meet the pellar in the stone circle on Fyke Isle at midnight. 
+Protect the ritual's participants."
+55;wicher_contracts;24806;Free Spirit;"Gather books describing religious customs and precedents and take them to Ivar. 
+Take the books you found to Ivar, he might find them interesting."
+56;wicher_contracts;24783;From a Land Far, Far Away;"Read the diary found on the body. 
+Find the sunken chest mentioned in the journal. 
+Uncover what became of the second ship. 
+Search the area around the wreck for any sign of survivors. 
+Find the woman to whom the indecipherable message you found on the corpse is addressed. 
+Talk to the foreign woman. 
+If you didn't talk to the warrior beforehand:"
+57;wicher_contracts;24706;Funeral Pyres;"Find and burn the bodies lying in pits on the battle field. 3/3 
+Return to the priest of the Eternal Fire."
+58;wicher_contracts;24713;Ghosts of the Past;"Search the farmstead. 
+Find where the noise is coming from using your Witcher Senses. 
+Enter the barn. 
+Find a ladder using your Witcher Senses. 
+Kill the bounty hunters. 
+Ride with Letho and find Louis. 
+Kill the bandits. 
+Ride with Letho to Lindenvale. 
+Accompany Letho around Lindenvale."
+59;wicher_contracts;24815;Greenhouse Effect;"Investigate the weather anomaly using your Witcher Senses. 
+Read the mage's letter. 
+Use the obelisks to restore the place's proper microclimate. 
+Kill the chort. 
+Return to the site of the anomaly in a few days."
+60;wicher_contracts;32135;Gwent: Big City Players;"Win Vimme Vivaldi's unique card. 
+Win a unique card from the Marquise Serenity. 
+Win a unique card from Dijkstra. 
+Win a unique card from a member of the Scoia'tael band."
+61;wicher_contracts;32141;Gwent: Old Pals;"Win a unique card from Vernon Roche. 
+Win a unique card from Thaler. 
+When you get a chance, win a unique card from Lambert. 
+Win a unique card from Zoltan."
+62;wicher_contracts;36738;Gwent: Playing Innkeeps;"Win Stjepan's unique card. 
+Win a unique card from the innkeep at the Inn at the Crossroads."
+63;wicher_contracts;44345;Gwent: Playing Thaler;Win a unique card from Thaler.
+64;wicher_contracts;32132;Gwent: Skellige Style;"Win a unique card from Ermion. 
+Win a unique card from Crach an Craite. 
+Win a unique card from Gremist. 
+Win a unique card from Sjusta. 
+Win a unique card from Madman Lugos."
+65;wicher_contracts;38795;Gwent: Velen Players;"Win a unique card from the baron. 
+Win a unique card from the man in Oreton. 
+Win a unique card from Haddy of Midcopse. 
+Win a unique card from the soothsayer."
+66;wicher_contracts;24700;Harassing a Troll;"Win a unique card from the baron. 
+Win a unique card from the man in Oreton. 
+Win a unique card from Haddy of Midcopse. 
+Win a unique card from the soothsayer."
+67;wicher_contracts;24785;Hard Times;"Investigate the broken cart using your Witcher Senses. 
+Use your Witcher Senses to follow the tracks leading away from the broken cart. 
+Read the letter you found on the dead woman's body. 
+Deliver the letter to the smith at Kaer Trolde."
+68;wicher_contracts;43175;Haunted House (quest);Visit the haunted house again.
+69;wicher_contracts;24714;Hazardous Goods;"Help the trapped man. 
+If you tell him to burn the cart:"
+70;wicher_contracts;24746;Hey, You Wanna Look at my Stuff?;"Find the mysterious merchant using your Witcher Senses. 
+Search the area using your Witcher Senses."
+71;wicher_contracts;24754;Hidden Messages of the Nilfgaardian Kind;"Read the note. 
+Find the next stash using your Witcher Senses. 
+Read the note from the dropbox. 
+Take the loot from the spies' chest."
+72;wicher_contracts;21099;High Stakes;"Find the scribe in the Passiflora and sign up for the high-stakes tournament. 
+Talk to the scribe. 
+Mingle with the other contestants. 
+Win your match against Bernard Tulle. 
+Meet Sasha on the balcony. 
+Return to the common room. 
+Win against Sasha. 
+Win against Finneas. 
+Defeat Finneas. 
+Win against Count Tybalt. 
+Follow the guard to the crime scene. 
+Investigate the crime scene using your Witcher Senses. 
+Check for clues behind the brothel using your Witcher Senses. 
+Use your Witcher Senses to see where the scent leads to. 
+Meet Sasha at the warehouse. 
+Find a way to get into the warehouse. 
+Climb up into the warehouse. 
+Check what's going on. 
+Defeat Bernard and his goons."
+73;wicher_contracts;24692;Highway Robbery;"Find the scribe in the Passiflora and sign up for the high-stakes tournament. 
+Talk to the scribe. 
+Mingle with the other contestants. 
+Win your match against Bernard Tulle. 
+Meet Sasha on the balcony. 
+Return to the common room. 
+Win against Sasha. 
+Win against Finneas. 
+Defeat Finneas. 
+Win against Count Tybalt. 
+Follow the guard to the crime scene. 
+Investigate the crime scene using your Witcher Senses. 
+Check for clues behind the brothel using your Witcher Senses. 
+Use your Witcher Senses to see where the scent leads to. 
+Meet Sasha at the warehouse. 
+Find a way to get into the warehouse. 
+Climb up into the warehouse. 
+Check what's going on. 
+Defeat Bernard and his goons."
+74;wicher_contracts;24724;Highwayman's Cache;"Find the scribe in the Passiflora and sign up for the high-stakes tournament. 
+Talk to the scribe. 
+Mingle with the other contestants. 
+Win your match against Bernard Tulle. 
+Meet Sasha on the balcony. 
+Return to the common room. 
+Win against Sasha. 
+Win against Finneas. 
+Defeat Finneas. 
+Win against Count Tybalt. 
+Follow the guard to the crime scene. 
+Investigate the crime scene using your Witcher Senses. 
+Check for clues behind the brothel using your Witcher Senses. 
+Use your Witcher Senses to see where the scent leads to. 
+Meet Sasha at the warehouse. 
+Find a way to get into the warehouse. 
+Climb up into the warehouse. 
+Check what's going on. 
+Defeat Bernard and his goons."
+75;wicher_contracts;24738;Honor Among Thieves;Collect a reward from the King of Beggars for freeing Rico.
+76;wicher_contracts;70942;Horse racing;Collect a reward from the King of Beggars for freeing Rico.
+77;wicher_contracts;24801;In Wolf's Clothing;"Talk to the priestess Josta about Morkvarg. 
+Talk to Einar about the curse. 
+Find the garden where the monster dwells. 
+Find Morkvarg. 
+Find the key Morkvarg mentioned using your Witcher Senses. 
+Get rid of the werewolf in the garden."
+78;wicher_contracts;24812;Iron Maiden;"The following are mutually exclusive and depends on the task given: 
+Tell Jutta you have performed the feat. 
+Defeat Jutta. 
+Meet Jutta at her home after dusk."
+79;wicher_contracts;24742;It Takes Three to Tango;"Bring some good wine to your rendezvous with Triss and Yennefer. 
+Meet Triss and Yennefer in the Kingfisher."
+80;wicher_contracts;24728;Karmic Justice;"Bring some good wine to your rendezvous with Triss and Yennefer. 
+Meet Triss and Yennefer in the Kingfisher."
+81;wicher_contracts;24787;King's Gambit;"Report to Crach en Craite to collect your reward. (500 and the silver sword, Fate) 
+(Optional) Defeat the Vildkaarl. (100 and Hjalmar's Steel Sword. A second brawl can be initiated afterwards which rewards another 50) 
+Defeat the bears. (300) 
+If Geralt decides to help Cerys:"
+82;wicher_contracts;24693;Last Rites;"Find the old woman's husband's grave using your Witcher Senses. 
+Place the ring on the grave. 
+Return to the old woman for a reward."
+83;wicher_contracts;51490;Little Red (quest);"Wait until dusk for Little Red's band to attack. 
+Defend the villagers."
+84;wicher_contracts;24694;Looters;"Wait until dusk for Little Red's band to attack. 
+Defend the villagers."
+85;wicher_contracts;24721;Love's Cruel Snares;"Find the woman's missing fiancé in the woods using your Witcher Senses. 
+Deliver the bad news to the girl."
+86;wicher_contracts;24720;Lynch Mob;Kill the peasants.
+87;wicher_contracts;24573;Magic Lamp (quest);"Follow Keira. 
+Search the room using your Witcher Senses. 
+Light the braziers in the correct order. 
+Look for the lamp in the mage's laboratory using your Witcher Senses. 
+Find an exit leading to the surface."
+88;wicher_contracts;24707;Man's Best Friend;"Follow Keira. 
+Search the room using your Witcher Senses. 
+Light the braziers in the correct order. 
+Look for the lamp in the mage's laboratory using your Witcher Senses. 
+Find an exit leading to the surface."
+89;wicher_contracts;24695;Master Armorers;"Ask if Fergus is a master armorer 
+Get blacksmith's tools from Undvik 
+Defeat the troll 
+Bring the tools to Fergus 
+Find a master armorer in Velen 
+Decide if you trust Yoana 
+Get gland acid from an archgriffin 
+Take the gland acid to Yoana 
+Talk to Fergus"
+90;wicher_contracts;24804;Master of the Arena;"Talk with the villagers about the problem at the arena. 
+Find a way to send Ulle on to the afterlife. 
+Return to the warriors. 
+If the guards were talked to beforehand:"
+91;wicher_contracts;24813;Message from an Old Friend;"Find a book with a red cover using your Witcher Senses. 
+Read the letter you found inside the book ""My Manifesto."""
+92;wicher_contracts;24683;Missing in Action;"Find Dune Vildenvert. 
+Meet Dune near the battlefield. 
+Using your Witcher Senses, search for Temerian shields with small white flowers painted on them. 
+Follow the dog's trail."
+93;wicher_contracts;24816;Monster Slayer;"Use your Witcher Senses to find out what's killing downers near the lake. 
+Kill the troll. 
+Search the troll's lair. 
+Read the letter."
+94;wicher_contracts;24756;Never Trust Children;"Use your Witcher Senses to find out what's killing downers near the lake. 
+Kill the troll. 
+Search the troll's lair. 
+Read the letter."
+95;wicher_contracts;24767;Novigrad Hospitality;Track down the bards using your Witcher Senses and recover your equipment.
+96;wicher_contracts;24729;Novigrad, Closed City (Bandits);"Track the smell of blood and sewer muck using your Witcher Senses. 
+Follow the missing man's trail using your Witcher Senses. 
+Kill the bandits."
+97;wicher_contracts;43467;Novigrad, Closed City (Lussi, Fritz, Walter);"Enter the woman's home and get rid of the danger. 
+Defeat the guards. 
+Find the other partners mentioned in the note and look for keys. 3/3 
+Use the three keys to open the safe."
+98;wicher_contracts;24757;Now or Never;"Read the mysterious perfumed letter 
+Meet Triss 
+Kill the Eternal Fire guardsmen 
+Follow Triss 
+The following objectives only apply if Geralt searches for Berthold and Anisse: 
+Enter the mage's hideout and follow Triss 
+Enter the sewers 
+Find a path through the sewers 
+Find a way across the rats' feeding ground 
+Meet Dijkstra at the port 
+Kill the witch hunters"
+99;wicher_contracts;24752;Of Dairy and Darkness;"Find the manor first: 
+Use Aeramas' artifacts to activate the portal. 
+Search Aeramas' residence using your Witcher Senses. 
+Find a way to activate the portal. 
+Use Aeramas' artifacts to activate the portal. 
+Use the portal in Aeramas' residence. 
+Investigate Aeramas' dungeon. 
+Find a way to pass the tyromancy rooms. 
+Find your way through the flooded chamber. 
+Deactivate the magic barrier and get to Aeramas' treasure."
+100;wicher_contracts;24739;Of Swords and Dumplings;"Talk to Hattori in his dumpling shop. 
+Go to the docks after dusk to meet Hattori's supplier. 
+Help Hattori to make a deal with his supplier. 
+Escape the ambush. 
+Enlist Sukrus from Skellige as Hattori's bodyguard. 
+Break up the fight outside the inn. 
+Convince the Skellige merchant to pay his debts to Sukrus or destroy his goods. 
+Tell Sukrus you solved his problem. 
+Return to Hattori. 
+Gather Sukrus and his boys. 
+Meet Sukrus by van Hoorn's warehouse after dark. 
+Get into Ernst van Hoorn's warehouse. 
+Use your Witcher Senses to find crates containing crafting supplies and mark them with chalk. 3/3 
+Tell Sukrus to take the crates. 
+Defeat Ernst van Hoorn and his thugs. 
+Talk to Hattori about the sword he promised you. 
+Return to Hattori later to see if he's finished your sword."
+101;wicher_contracts;21513;On Death's Bed;"Brew a dose of the Swallow potion. 
+Take the potion to the herbalist."
+102;wicher_contracts;24748;Out On Your Arse!;"Get rid of the drunk Skelligers. 
+Return to the woman."
+103;wicher_contracts;41221;Possession (quest);"Ask Udalryk where Cerys is. 
+If Geralt asked Hjort what happened to Udalryk: 
+Look for Cerys in the abandoned home using your Witcher Senses. 
+Find the sword named Brokvar. (400) 
+Tell Cerys you found the sword. 
+Go to Udalryk with Cerys. 
+Place Brokvar near Aki's bones. 
+Return to Udalryk. (550) 
+Meet Cerys in Udalryk's old home. 
+Search the house and find a way to drive off the hym. 
+See what Cerys has found. 
+If Geralt decides to trick the hym: 
+If Geralt decides to fight the hym:"
+104;wicher_contracts;24684;Precious Cargo;"Find the little box the merchant mentioned using your Witcher Senses. 
+Use your Witcher Senses to find where the cart left the road. 
+Find the cart. 
+Look around the cart for evidence about the attack using your Witcher Senses. 
+Return the box to the merchant. 
+If Geralt confronts the merchant about his lie:"
+105;wicher_contracts;30544;Race: The Great Erasmus Vegelbud Memorial Derby;"Talk to the master of ceremonies for the Vegelbuds' race. 
+If one takes a break between races: 
+Beat the first rider. 
+Beat the second rider. 
+Beat Luc Vegelbud. 
+Read the letter you received. 
+Talk to Cleaver about the letter. 
+If you initially say no: 
+Be the first past the finish line."
+106;wicher_contracts;43278;Races: Crow's Perch;Get to the race's starting line.
+107;wicher_contracts;24740;Racists of Novigrad;Get to the race's starting line.
+108;wicher_contracts;24749;Reason of State;"Meet Dijkstra, Roche and Thaler in the portside warehouse. 
+Lure Radovid from his ship. 
+Kill Radovid. 
+If Geralt protects the Temerian patriots:"
+109;wicher_contracts;24773;Redania's Most Wanted;"Talk to the witch hunters in front of Philippa's hideout in Est Tayiar 
+Open Philippa's hideout (50) 
+Search Philippa's hideout 
+Search Philippa's quarters using your Witcher Senses 
+Find the missing crystal 
+Place the crystal in the right spot 
+Use Aard to activate the crystal 
+The next two options are mutually exclusive: 
+The next three options are mutually exclusive and only available if Geralt killed the witch hunters: 
+Tell Radovid what you learned about Philippa (50)"
+110;wicher_contracts;24726;Return to Crookback Bog;"Meet the baron in Downwarren. 
+Go with the baron to the Crones' huts in the bog. 
+Help the witch hunters fight the monsters. 
+Prepare for a fight. 
+Kill the fiend and the other monsters. 
+If Geralt save the spirit after he was given the task:"
+111;wicher_contracts;24774;Rough Neighborhood;Escort the woman to her home.
+112;wicher_contracts;24791;Shock Therapy;"Go visit Egill. 
+Help Egill recover his voice by giving him a scare. 
+Keep trying to scare the druid until he recovers his voice. 3/3 
+Return to the druid who gave you the task."
+113;wicher_contracts;24792;Siren's Call;"Go visit Egill. 
+Help Egill recover his voice by giving him a scare. 
+Keep trying to scare the druid until he recovers his voice. 3/3 
+Return to the druid who gave you the task."
+114;wicher_contracts;24768;Spooked Mare;"Find the missing horse using your Witcher Senses. 
+If you fight the Scoia'tael: 
+If you take one of the horses:"
+115;wicher_contracts;24793;Stranger in a Strange Land;"Defeat the warriors who picked a fight with you. 
+See what's happening outside. 
+Get out of prison."
+116;wicher_contracts;24769;Strangers in the Night (The Witcher 3);"Defeat the warriors who picked a fight with you. 
+See what's happening outside. 
+Get out of prison."
+117;wicher_contracts;24747;Strumpet in Distress;"Defeat the warriors who picked a fight with you. 
+See what's happening outside. 
+Get out of prison."
+118;wicher_contracts;24741;Suspicious Shakedown;"Defeat the warriors who picked a fight with you. 
+See what's happening outside. 
+Get out of prison."
+119;wicher_contracts;43517;Take What You Want;Go to the School of the Cat witcher's stash to collect your reward.
+120;wicher_contracts;24569;The Bastion;"Explore the old bastion near Kaer Morhen using your Witcher Senses. 
+Eliminate the wraiths haunting the old bastion. 
+Use Keira's lamp to investigate the old bastion. 
+Look for the boy's remains around the bastion using your Witcher Senses. 
+Use Keira's lamp to find out what happened to the boy. 
+Pick up the boy's remains. 
+Bury the boy's remains."
+121;wicher_contracts;24794;The Cave of Dreams;"Join Blueboy Lugos and his crew outside the Cave of Dreams. 
+Explore the Cave of Dreams with Blueboy Lugos. 
+Face your nightmares in the Cave of Dreams."
+122;wicher_contracts;24727;The Dwarven Document Dilemma;"Go to the place where Muggs was attacked and examine it using your Witcher Senses. 
+Use your Witcher Senses to follow the clues to find Muggs' attackers. 
+Confront Muggs about his story or get the documents from Gerd. 
+If Geralt demands the papers: 
+Compare Muggs' and the attacker's accounts."
+123;wicher_contracts;24710;The Fall of the House of Reardon;"Ask Dolores about the monsters in her manor. 
+Find the Reardon family manor. 
+Kill the monsters in the manor. 
+Return to Dolores."
+124;wicher_contracts;24781;The Family Blade;"Look for a thieves' camp near the obelisk. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Read the journal to learn about the sword named Kuliu. 
+Track down the thieves at the old fort. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Read the journal to learn about the sword named Kuliu. 
+Look for thieves near the whale graveyard. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Return Kuliu to the Kaer Trolde guardsman named Olaf."
+125;wicher_contracts;24736;The Flame of Hatred;"Look for a thieves' camp near the obelisk. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Read the journal to learn about the sword named Kuliu. 
+Track down the thieves at the old fort. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Read the journal to learn about the sword named Kuliu. 
+Look for thieves near the whale graveyard. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Return Kuliu to the Kaer Trolde guardsman named Olaf."
+126;wicher_contracts;24810;The Four Faces of Hemdall;"Look for a thieves' camp near the obelisk. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Read the journal to learn about the sword named Kuliu. 
+Track down the thieves at the old fort. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Read the journal to learn about the sword named Kuliu. 
+Look for thieves near the whale graveyard. 
+Kill the thieves. 
+Search the thieves' camp for the sword named Kuliu. 
+Return Kuliu to the Kaer Trolde guardsman named Olaf."
+127;wicher_contracts;24737;The Gangs of Novigrad;"Think over Cleaver's offer to help you find Whoreson Junior. 
+Talk to Cleaver. 
+Meet with his henchmen."
+128;wicher_contracts;53907;The Heroes' Pursuits: Fayrlund;"Go to where the race starts. 
+Win the race!"
+129;wicher_contracts;56398;The Heroes' Pursuits: For the Goddess' Glory!;"If Geralt found the notice: 
+Win each of the qualifying races at least once. 
+Go to the race's starting line. 
+Be the first past the finish line."
+130;wicher_contracts;56397;The Heroes' Pursuits: Fyresdal;"Go to where the race starts. 
+Ride as fast as you can and win!"
+131;wicher_contracts;56313;The Heroes' Pursuits: Kaer Trolde;"Go to the race's starting line. 
+Mount your horse and take your position at the starting line. 
+Be the first past the finish line."
+132;wicher_contracts;35270;The Last Wish (quest);"Meet Yennefer in Larvik. 
+Accompany Yennefer on the way to Larvik. 
+Go to Larvik's harbor with Yennefer. 
+Talk to Yennefer. 
+Get on the boat with Yennefer. 
+Help Yennefer find the djinn. 
+Search the bottom of the bay using your Witcher Senses. 
+Return to the boat. 
+Help Yennefer find the djinn. 
+Search the bottom of the bay using your Witcher Senses. 
+Return to the boat and talk to Yennefer. 
+Follow Yennefer to the top deck. 
+Search the ship using your Witcher Senses. 
+Wait for Yennefer to summon the djinn. 
+Stop the djinn."
+133;wicher_contracts;24803;The Lord of Undvik;"Ask Crach an Craite about Hjalmar. 
+Ask around at the New Port Inn about Undvik and the Ice Giant. 
+Sail to the island of Undvik and search for Hjalmar. (100) 
+Explore the ruins of Urskar and search for signs of Hjalmar's presence using your Witcher Senses. 
+Explore the boat's hull. 
+Talk to the stranger. 
+Help the stranger drive off the sirens. 
+Find Hjalmar's camp. 
+Explore the remains of Hjalmar's camp using your Witcher Senses. 
+Use your Witcher Senses to follow the tracks of those who fled the camp before the attack. 
+Find the man the trolls captured using your Witcher Senses. 
+Help the man in the cauldron. (200) 
+Follow the boat trail using your Witcher Senses. 
+Find those who ventured off toward the tower using your Witcher Senses. 
+Find out what happened to Hjalmar's crew. 
+Follow the trail of blood using your WItcher Senses. 
+Find out what happened to Hjalmar's crew in the caves. 
+Cross the lake. 
+Find Hjalmar. 
+Find a way to the giant's lair. 
+Avoid snow - the sound of it crunching under your feet will awake the giant. 
+Find the key to Vigi's cage using your Witcher Senses. 
+Free Vigi. (200) 
+Kill the giant. (100) + (500 completing quest)"
+134;wicher_contracts;24772;The Most Truest of Basilisks;"Ask Crach an Craite about Hjalmar. 
+Ask around at the New Port Inn about Undvik and the Ice Giant. 
+Sail to the island of Undvik and search for Hjalmar. (100) 
+Explore the ruins of Urskar and search for signs of Hjalmar's presence using your Witcher Senses. 
+Explore the boat's hull. 
+Talk to the stranger. 
+Help the stranger drive off the sirens. 
+Find Hjalmar's camp. 
+Explore the remains of Hjalmar's camp using your Witcher Senses. 
+Use your Witcher Senses to follow the tracks of those who fled the camp before the attack. 
+Find the man the trolls captured using your Witcher Senses. 
+Help the man in the cauldron. (200) 
+Follow the boat trail using your Witcher Senses. 
+Find those who ventured off toward the tower using your Witcher Senses. 
+Find out what happened to Hjalmar's crew. 
+Follow the trail of blood using your WItcher Senses. 
+Find out what happened to Hjalmar's crew in the caves. 
+Cross the lake. 
+Find Hjalmar. 
+Find a way to the giant's lair. 
+Avoid snow - the sound of it crunching under your feet will awake the giant. 
+Find the key to Vigi's cage using your Witcher Senses. 
+Free Vigi. (200) 
+Kill the giant. (100) + (500 completing quest)"
+135;wicher_contracts;24788;The Nithing;"Talk to Lothar. 
+Investigate the Nithing. 
+Follow the tracks using your Witcher Senses. 
+Follow the scent using your Witcher Senses. 
+Ask about the shawl's owner. 
+Talk to Jonna, the herbalist. 
+Talk to Lothar about how to lift the curse."
+136;wicher_contracts;24758;The Nobleman Statuette;Talk to Triss about the statuette.
+137;wicher_contracts;24807;The Path of Warriors;"Talk to the man who oversees the Path. 
+Reach the start of the Path. 
+Collect proof you made it to the top of the peak. 
+Descend down to the cave entrance. 
+Travel through the tunnel and collect proof you made it to the end. 
+Reach the end of the tunnel. 
+Leave the caverns and talk to the man who oversees the Path."
+138;wicher_contracts;24811;The Price of Honor;"Examine the coasts of Faroe on the side facing Hindarsfjall. 
+Search the shore using your Witcher Senses. 
+If Geralt doesn't have Keira's magic lamp:​ 
+Examine the beach near the dead girl using the magic lamp. 
+Follow the footsteps using your Witcher Senses. 
+Investigate the crime scene using your Witcher Senses. 
+Tell the young man what happened to his betrothed and his brothers."
+139;wicher_contracts;24771;The Price of Passage;"Examine the coasts of Faroe on the side facing Hindarsfjall. 
+Search the shore using your Witcher Senses. 
+If Geralt doesn't have Keira's magic lamp:​ 
+Examine the beach near the dead girl using the magic lamp. 
+Follow the footsteps using your Witcher Senses. 
+Investigate the crime scene using your Witcher Senses. 
+Tell the young man what happened to his betrothed and his brothers."
+140;wicher_contracts;18739;The Sad Tale of the Grossbart Brothers;"Look for the Grossbart brothers in southern Ard Skellig. 
+Help the bounty hunter deal with the Grossbart brothers."
+141;wicher_contracts;24759;The Soldier Statuette;Talk to Triss about the statuette.
+142;wicher_contracts;24808;The Tower Outta Nowheres;"Talk to the villagers. 
+Enter the tower. 
+Explore the tower. 
+Defeat the golem. 
+Talk to the man trapped behind the magic barrier. 
+Find the key to the library using your Witcher Senses. 
+Enter the library. 
+Find ""Gottfried's Omni-opening Grimoire"" using your Witcher Senses. 
+Bring the mage ""Gottfried's Omni-opening Grimoire."" 
+Break the tower's defenses with the mage's help. 
+Talk to the mage. 
+Talk to the villagers."
+143;wicher_contracts;24716;The Truth is in the Stars;"Bring the fortune teller something to eat. 
+Find dragonsroot using your Witcher Senses. 
+Take the dragonsroot to the fortune teller."
+144;wicher_contracts;24709;The Volunteer;"Look around the area. 
+If Geralt opts to kill Trollololo: 
+If Geralt opts to let it slide:"
+145;wicher_contracts;20898;The Whispering Hillock;"Find where the voice is coming from using your Witcher Senses. 
+Speak to the spirit in the cave beneath the Whispering Hillock. 
+If you decide to release it: 
+If you decide to kill it:"
+146;wicher_contracts;24818;The Witchers' Forge;"Read the copy of the tome 
+Go to the mine near Kaer Morhen 
+Search the mine using your Witcher Senses 
+Kill the earth elemental 
+Put the tome on the pedestal 
+Search the mysterious chamber using your Witcher Senses 
+Kill the ifrit 
+Remove the illusion"
+147;wicher_contracts;24708;Thou Shalt Not Pass;"Acquire a pass granting permission to cross the Pontar. 
+Use the pass to cross the Pontar."
+148;wicher_contracts;24817;Trail of Echoes;"Acquire a pass granting permission to cross the Pontar. 
+Use the pass to cross the Pontar."
+149;wicher_contracts;23909;Twisted Firestarter;"Use your Witcher Senses to look behind the forge for clues about the arsonist. 
+Follow the trail using your Witcher Senses. 
+Look for someone with wounds dealt by drowners using your Witcher Senses. 
+Talk to the suspect. 
+Escort the arsonist back to the blacksmith."
+150;wicher_contracts;24751;Warehouse of Woe;"Kill the monster. 
+Tell the guardsman what happened in the warehouse."
+151;wicher_contracts;43506;Where the Cat and Wolf Play...;"Explore the village using your Witcher Senses. 
+Use your Witcher Senses to find the girl. 
+Follow the tracks in the stone circle using your Witcher Senses 
+Follow the School of the Cat witcher's tracks using your Witcher Senses. 
+Escort the girl from Honorton to her relatives in Oreton."
+152;wicher_contracts;20813;Wild at Heart;"Talk to the hunter named Niellen. 
+Ask the neighbors about Hanna. 
+Search for signs of Hanna in the woods using your Witcher Senses. 
+Continue to investigate: 
+Accept Margrit's bribe:"
+153;wicher_contracts;24730;Witch Hunter Raids;"Talk to the hunter named Niellen. 
+Ask the neighbors about Hanna. 
+Search for signs of Hanna in the woods using your Witcher Senses. 
+Continue to investigate: 
+Accept Margrit's bribe:"
+154;wicher_contracts;24715;Witcher Wannabe;"Find out more about the contract posted by the residents of Lindenvale. 
+Use your Witcher Senses to look for the charlatan in the cemetery. 
+Kill the ghoul."
+155;wicher_contracts;24797;Woe is Me;"Find out more about the contract posted by the residents of Lindenvale. 
+Use your Witcher Senses to look for the charlatan in the cemetery. 
+Kill the ghoul."
+156;wicher_contracts;24799;Yustianna Disturbed;"Find out more about the contract posted by the residents of Lindenvale. 
+Use your Witcher Senses to look for the charlatan in the cemetery. 
+Kill the ghoul."
