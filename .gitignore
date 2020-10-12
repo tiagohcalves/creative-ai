@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 quest-generator/data/raw/
+quest-generator/models/
