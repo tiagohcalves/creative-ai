@@ -130,3 +130,4 @@ dmypy.json
 
 quest-generator/data/raw/
 quest-generator/models/
+quest-generator/app/template/

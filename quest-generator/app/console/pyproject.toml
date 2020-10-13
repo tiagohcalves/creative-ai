@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "quest-generator"
+version = "0.1.0"
+description = "Generate quests for medieval fantasy adventures"
+authors = ["Tiago Alves <tiagohcalves@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.1.3"
+fastai = "^2.0.16"
+click = "^7.1.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.scripts]
+quest-generator = "quest_generator.main:main"
