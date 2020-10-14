@@ -64,66 +64,46 @@ class MainPage extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            file: null,
-            predictions: [],
-            imageSelected: false,
-            url: null,
-            isLoading: false,
+            quest_title: null,
+            quest_goals: [],
+            suggestions: [],
             selectedOption: null,
-
         }
     }
 
-    _onFileUpload = (event) => {
-        this.setState({
-            rawFile: event.target.files[0],
-            file: URL.createObjectURL(event.target.files[0]),
-            imageSelected: true
-        })
-    };
-
-    _onUrlChange = (url) => {
-        this.state.url = url;
-        if ((url.length > 5) && (url.indexOf("http") === 0)) {
-            this.setState({
-                file: url,
-                imageSelected: true
-            })
-        }
-    };
-
     _clear = async (event) => {
         this.setState({
-            file: null,
-            imageSelected: false,
-            predictions: [],
-            rawFile: null,
-            url: ""
+            quest_title: null,
+            quest_goals: [],
+            suggestions: [],
+            selectedOption: null,
         })
     };
 
-    _predict = async (event) => {
+    _get_suggestions = async (event) => {
         this.setState({isLoading: true});
+        console.log(this.state)
 
         let resPromise = null;
-        if (this.state.rawFile) {
-            const data = new FormData();
-            data.append('file', this.state.rawFile);
-            resPromise = axios.post('/api/classify', data);
-        } else {
-            resPromise = axios.get('/api/classify', {
-                params: {
-                    url: this.state.file
-                }
-            });
-        }
+        resPromise = await axios.get('/api/update_quest', {
+            params: {
+                title: this.state.quest_title,
+                selected: this.state.selectedOption
+            }
+        });
 
         try {
             const res = await resPromise;
             const payload = res.data;
 
-            this.setState({predictions: payload.predictions, isLoading: false});
-            console.log(payload)
+            this.setState({
+                quest_title: payload.title,
+                quest_goals: payload.current_goals,
+                suggestions: payload.suggestions,
+                isLoading: false
+            });
+            console.log("loaded")
+            console.log(res)
         } catch (e) {
             alert(e)
         }
@@ -131,56 +111,56 @@ class MainPage extends React.Component {
 
 
     renderPrediction() {
-        const predictions = this.state.predictions || [];
+        const quest_title = this.state.quest_title || "";
+        const goals = this.state.quest_goals || [];
 
-        if (predictions.length > 0) {
+        const quest_goals = goals.map((item) =>
+            <li>{item}</li>
+        );
 
-            const predictionItems = predictions.map((item) =>
-                <li>{item.class} ({item.prob * 100}%) </li>
-            );
-
-            return (
-                <ul>
-                    {predictionItems}
-                </ul>
-            )
-
-        } else {
-            return null
-        }
+        return (
+            <ul>
+                <h2>{quest_title}</h2>
+                {quest_goals}
+            </ul>
+        )
     }
 
-    handleChange = (selectedOption) => {
-        this.setState({selectedOption});
-        console.log(`Option selected:`, selectedOption);
+    update_title = (event) => {
+        this.setState({quest_title: event.target.value});
     };
 
-    sampleUrlSelected  = (item) => {
-        this._onUrlChange(item.url);
+    selectSuggestion  = (item) => {
+        this.state.selectedOption = item
     };
     
     render() {
-        const sampleImages = APP_CONFIG.sampleImages;
         return (
             <div>
                 <h2>{APP_CONFIG.description}</h2>
 
-                <p>Select an image </p>
+                <p>Enter the quest title then choose the options </p>
 
                 <Form>
                     <FormGroup>
                         <div>
-                            <p>Provide a Url</p>
+                            <p>Enter the quest title</p>
+                            <Input
+                                type="text"
+                                value={this.state.quest_title}
+                                name="quest_title"
+                                onChange={this.update_title}
+                            />
+                            <br/>
                             <div>
-
                                 <UncontrolledDropdown >
                                     <DropdownToggle caret>
-                                        Sample Image Url
+                                        Select next goal
                                     </DropdownToggle>
                                     <DropdownMenu>
-                                        {sampleImages.map(si =>
-                                            <DropdownItem onClick={()=>this.sampleUrlSelected(si)}>
-                                                {si.name}
+                                        {this.state.suggestions.map((sug, idx) =>
+                                            <DropdownItem onClick={()=>this.selectSuggestion(idx)}>
+                                                {sug}
                                             </DropdownItem>)
                                         }
 
@@ -188,27 +168,11 @@ class MainPage extends React.Component {
                                 </UncontrolledDropdown>
 
                             </div>
-                            <Input value={this.state.url} name="file" onChange={(e)=>this._onUrlChange(e.target.value)}
-                            />
                         </div>
                     </FormGroup>
-
-                    <h3>OR</h3>
-                    <FormGroup id={"upload_button"}>
-                        <div>
-                            <p>Upload an image</p>
-                        </div>
-                        <Label for="imageUpload">
-                            <Input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg" ref="file"
-                                   onChange={this._onFileUpload}/>
-                            <span className="btn btn-primary">Upload</span>
-                        </Label>
-                    </FormGroup>
-
-                    <img src={this.state.file} className={"img-preview"} hidden={!this.state.imageSelected}/>
 
                     <FormGroup>
-                        <Button color="success" onClick={this._predict}
+                        <Button color="success" onClick={this._get_suggestions}
                                 disabled={this.state.isLoading}> Predict</Button>
                         <span className="p-1 "/>
                         <Button color="danger" onClick={this._clear}> Clear</Button>
@@ -218,7 +182,6 @@ class MainPage extends React.Component {
                     {this.state.isLoading && (
                         <div>
                             <Spinner color="primary" type="grow" style={{width: '5rem', height: '5rem'}}/>
-
                         </div>
                     )}
 

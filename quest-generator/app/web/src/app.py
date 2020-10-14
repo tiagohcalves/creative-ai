@@ -1,11 +1,8 @@
 import os
 import sys
-from io import BytesIO
 from pathlib import Path
-from typing import List, Dict, Union, ByteString
 
 import flask
-import requests
 import yaml
 from fastai.learner import load_learner
 from flask import Flask
