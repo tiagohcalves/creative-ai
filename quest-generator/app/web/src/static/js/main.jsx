@@ -2,7 +2,6 @@
 //import React from 'react';
 const Button = window.Reactstrap.Button;
 
-
 const Collapse = window.Reactstrap.Collapse;
 const Navbar = window.Reactstrap.Navbar;
 const NavbarBrand = window.Reactstrap.NavbarBrand;
@@ -21,13 +20,8 @@ const Label = window.Reactstrap.Label;
 const Input = window.Reactstrap.Input;
 
 
-const UncontrolledDropdown = window.Reactstrap.UncontrolledDropdown;
 const Dropdown = window.Reactstrap.Dropdown;
-const DropdownToggle = window.Reactstrap.DropdownToggle;
-const DropdownMenu = window.Reactstrap.DropdownMenu;
-const DropdownItem = window.Reactstrap.DropdownItem;
 const Spinner = window.Reactstrap.Spinner;
-
 
 
 const axios = window.axios;
@@ -82,14 +76,17 @@ class MainPage extends React.Component {
 
     _get_suggestions = async (event) => {
         this.setState({isLoading: true});
-        console.log(this.state)
+
+        let selected = null;
+        if(this.state.suggestions.length > 0) {
+            selected = this.state.suggestions[this.state.selectedOption];
+        }
 
         let resPromise = null;
-        resPromise = await axios.get('/api/update_quest', {
-            params: {
-                title: this.state.quest_title,
-                selected: this.state.selectedOption
-            }
+        resPromise = axios.post('/api/update_quest', {
+            title: this.state.quest_title,
+            quest_goals: this.state.quest_goals,
+            selected: selected,
         });
 
         try {
@@ -102,8 +99,6 @@ class MainPage extends React.Component {
                 suggestions: payload.suggestions,
                 isLoading: false
             });
-            console.log("loaded")
-            console.log(res)
         } catch (e) {
             alert(e)
         }
@@ -138,44 +133,35 @@ class MainPage extends React.Component {
         return (
             <div>
                 <h2>{APP_CONFIG.description}</h2>
-
-                <p>Enter the quest title then choose the options </p>
-
                 <Form>
                     <FormGroup>
                         <div>
-                            <p>Enter the quest title</p>
                             <Input
                                 type="text"
                                 value={this.state.quest_title}
                                 name="quest_title"
                                 onChange={this.update_title}
+                                placeholder="Enter the quest title and click on the green button"
                             />
                             <br/>
                             <div>
-                                <UncontrolledDropdown >
-                                    <DropdownToggle caret>
-                                        Select next goal
-                                    </DropdownToggle>
-                                    <DropdownMenu>
-                                        {this.state.suggestions.map((sug, idx) =>
-                                            <DropdownItem onClick={()=>this.selectSuggestion(idx)}>
-                                                {sug}
-                                            </DropdownItem>)
-                                        }
-
-                                    </DropdownMenu>
-                                </UncontrolledDropdown>
-
+                                <Input type="select" name="selectSuggestion" style={{height: 200}} multiple>
+                                    {this.state.suggestions.map((sug, idx) =>
+                                        <option onClick={()=>this.selectSuggestion(idx)}>
+                                            {sug}
+                                        </option>)
+                                    }
+                                </Input>
+                                <small>Warning: this is a domain-free model. Some suggestion may not make sense.</small>
                             </div>
                         </div>
                     </FormGroup>
 
                     <FormGroup>
                         <Button color="success" onClick={this._get_suggestions}
-                                disabled={this.state.isLoading}> Predict</Button>
+                                disabled={this.state.isLoading}> Get next goals</Button>
                         <span className="p-1 "/>
-                        <Button color="danger" onClick={this._clear}> Clear</Button>
+                        <Button color="danger" onClick={this._clear}> Clear quest</Button>
                     </FormGroup>
 
 

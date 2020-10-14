@@ -1,4 +1,5 @@
 import os
+import json
 import sys
 from pathlib import Path
 
@@ -42,18 +43,15 @@ def get_next_suggestions(model, quest_title, quest_goals, n_preds=5, n_words=15)
     return predictions
 
 
-@app.route('/api/update_quest', methods=['GET'])
+@app.route('/api/update_quest', methods=['POST'])
 def update_quest():
-    global quest_title
-    global current_suggestions
-    global quest_goals
+    request_data = json.loads(flask.request.data)
+    quest_title = request_data.get("title")
+    selected_suggestion = request_data.get("selected")
+    quest_goals = request_data.get("quest_goals")
 
-    quest_title = flask.request.args.get("title")
-    selected_suggestion = flask.request.args.get("selected")
     if selected_suggestion:
-        quest_goals.append(
-            current_suggestions[int(selected_suggestion)]
-        )
+        quest_goals.append(selected_suggestion)
 
     current_suggestions = get_next_suggestions(model, quest_title, quest_goals)
     res = {
@@ -103,9 +101,6 @@ def before_request():
 
 
 model = load_model()
-quest_goals = []
-quest_title = ""
-current_suggestions = []
 
 if __name__ == '__main__':
     port = os.environ.get('PORT', 5000)

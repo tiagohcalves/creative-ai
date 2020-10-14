@@ -1,4 +1,4 @@
-FROM python:3.6-slim-stretch
+FROM python:3.8-slim-stretch
 
 RUN apt update && \
     apt install -y python3-dev gcc
