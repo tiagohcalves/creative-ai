@@ -18,7 +18,7 @@ def load_model():
     """Load model from file."""
     path = Path(os.path.realpath(__file__)).resolve().parent.parent
     path = path/"models/model.pkl"
-    learner = load_learner(path, cpu=False)
+    learner = load_learner(path, cpu=True)
     return learner
 
 
@@ -105,8 +105,7 @@ model = load_model()
 if __name__ == '__main__':
     port = os.environ.get('PORT', 5000)
 
-    if "prepare" not in sys.argv:
-        app.jinja_env.auto_reload = True
-        app.config['TEMPLATES_AUTO_RELOAD'] = True
-        # app.run(debug=False, host='0.0.0.0', port=port)
-        app.run(host='0.0.0.0', port=port)
+    app.jinja_env.auto_reload = True
+    app.config['TEMPLATES_AUTO_RELOAD'] = True
+    # app.run(debug=False, host='0.0.0.0', port=port)
+    app.run(host='0.0.0.0', port=port)

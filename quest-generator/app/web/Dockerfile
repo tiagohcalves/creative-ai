@@ -1,22 +1,16 @@
-FROM python:3.8-slim-stretch
+FROM python:3.8-slim
 
 RUN apt update && \
     apt install -y python3-dev gcc
 
-WORKDIR app 
-# Install pytorch and fastai
-#RUN pip install torch_nightly -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
-
 ADD requirements.txt .
 RUN pip install -r requirements.txt
-#pip install --no-cache-dir -r
-ADD models models
-ADD src src
 
-# Run it once to trigger resnet download
-RUN python src/app.py prepare
+ADD models /opt/quest-generator/models
+ADD src /opt/quest-generator/src
 
 #EXPOSE 5000
+WORKDIR /opt/quest-generator
 
 # Start the server
-CMD ["python", "src/app.py", "serve"]
+CMD python src/app.py
