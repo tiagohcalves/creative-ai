@@ -131,3 +131,5 @@ dmypy.json
 quest-generator/data/raw/
 quest-generator/models/
 quest-generator/app/template/
+quest-generator/app/web/models/model.pkl
+quest-generator/app/console/assets/
