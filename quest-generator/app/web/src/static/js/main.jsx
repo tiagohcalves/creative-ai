@@ -133,6 +133,12 @@ class MainPage extends React.Component {
         return (
             <div>
                 <h2>{APP_CONFIG.description}</h2>
+
+                <div className="float-right">
+                    <small>Developed by <a href="https://tiagohca.com/">Tiago Alves</a></small>
+                </div>
+
+                <br/>
                 <Form>
                     <FormGroup>
                         <div>
@@ -191,9 +197,6 @@ class CustomNavBar extends React.Component {
                 <NavbarBrand href="/">{APP_CONFIG.title}</NavbarBrand>
                 <Collapse navbar>
                     <Nav className="ml-auto" navbar>
-                        <NavItem>
-                            <NavLink href="/about">About</NavLink>
-                        </NavItem>
                         <NavItem>
                             <NavLink href={link}>GitHub</NavLink>
                         </NavItem>
