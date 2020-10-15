@@ -1,15 +1,10 @@
-from datetime import datetime
-
 import dash
+import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
-import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
-# import plotly.graph_objects as go
-# from plotly import subplots
 from dash.dependencies import Input, Output
-
 
 ##########
 ## Config
@@ -23,7 +18,10 @@ songs_df = (
 )
 
 all_artists = songs_df["artista"].unique().tolist()
-
+song_list = list(zip(
+    songs_df.apply(lambda x: f"{x['musica']} - ({x['artista']})", axis=1).values,
+    songs_df["song_idx"].values
+))
 
 ########
 # APP
@@ -69,6 +67,36 @@ app.layout = dbc.Container(
                     width=10
                 )
             ]
+        ),
+        dbc.Row(
+            [
+                dbc.Col([
+                    html.Div(
+                        [
+                            html.P(["Select a song:", dcc.Dropdown(
+                                id="song1",
+                                options=[dict(label=song_name, value=song_idx) for song_name, song_idx in
+                                         song_list],
+                                multi=False,
+                            )])
+                        ]
+                    ),
+                    html.Div(id="song1_lyrics", style={'whiteSpace': 'pre-wrap'}),
+                ], width=5),
+                dbc.Col([
+                    html.Div(
+                        [
+                            html.P(["Select a song:", dcc.Dropdown(
+                                id="song2",
+                                options=[dict(label=song_name, value=song_idx) for song_name, song_idx in
+                                         song_list],
+                                multi=False,
+                            )])
+                        ]
+                    ),
+                    html.Div(id="song2_lyrics", style={'whiteSpace': 'pre-wrap'}),
+                ], width=5),
+            ]
         )
     ],
     fluid=True
@@ -93,7 +121,7 @@ def make_figure(selected_artists):
         x="x", y="y",
         color="artista",
         hover_data=["musica"],
-        height=800,
+        height=600,
         opacity=0.8,
         template="plotly_white"
     )
@@ -103,5 +131,25 @@ def make_figure(selected_artists):
     # fig.update_layout(showlegend=False, autosize=True)
 
     return fig
+
+@app.callback(
+    Output("song1_lyrics", "children"),
+    [Input("song1", "value")]
+)
+def display_song1(song1):
+    if song1:
+        return songs_df[songs_df["song_idx"] == song1]["letra"].values[0]
+    return ""
+
+
+@app.callback(
+    Output("song2_lyrics", "children"),
+    [Input("song2", "value")]
+)
+def display_song2(song2):
+    if song2:
+        return songs_df[songs_df["song_idx"] == song2]["letra"].values[0]
+    return ""
+
 
 app.run_server(host="0.0.0.0", debug=True, port=5000)
