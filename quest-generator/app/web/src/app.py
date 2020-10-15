@@ -1,6 +1,6 @@
-import os
 import json
-import sys
+import gc
+import os
 from pathlib import Path
 
 import flask
@@ -22,12 +22,17 @@ def load_model():
     return learner
 
 
-def get_next_suggestions(model, quest_title, quest_goals, n_preds=5, n_words=15):
+def get_next_suggestions(model, quest_title, quest_goals, n_preds=5, n_words=10):
     """Get the next goal suggestions from the model, given the current context"""
-    if quest_goals:
+    gc.collect()
+
+    if len(quest_goals) == 0:
+        context = quest_title.lower() + " > "
+    elif len(quest_goals) < 2:
         context = quest_title.lower() + " > " + " > ".join(quest_goals).lower() + " > "
     else:
-        context = quest_title.lower() + " > "
+        context = " > ".join(quest_goals[-2:]).lower() + " > "
+
     predictions = []
 
     for _ in range(n_preds):
@@ -35,11 +40,10 @@ def get_next_suggestions(model, quest_title, quest_goals, n_preds=5, n_words=15)
         predictions += [
             p.strip()
             for p in prediction.split(">")
-            if len(p) > 0
+            if len(p) > 1
         ]
 
     # TODO replace placeholders
-
     return predictions
 
 

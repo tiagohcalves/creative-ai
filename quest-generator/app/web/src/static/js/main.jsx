@@ -62,23 +62,34 @@ class MainPage extends React.Component {
             quest_goals: [],
             suggestions: [],
             selectedOption: null,
+            custom_goal: null
         }
+
+        this.update_custom_goal = this.update_custom_goal.bind(this);
+        this.update_title = this.update_title.bind(this);
     }
 
     _clear = async (event) => {
+        event.preventDefault();
+
         this.setState({
             quest_title: null,
             quest_goals: [],
             suggestions: [],
             selectedOption: null,
+            custom_goal: null
         })
     };
 
     _get_suggestions = async (event) => {
+        event.preventDefault();
         this.setState({isLoading: true});
 
         let selected = null;
-        if(this.state.suggestions.length > 0) {
+        if (this.state.custom_goal) {
+            selected = this.state.custom_goal
+        }
+        else if (this.state.suggestions.length > 0) {
             selected = this.state.suggestions[this.state.selectedOption];
         }
 
@@ -97,7 +108,8 @@ class MainPage extends React.Component {
                 quest_title: payload.title,
                 quest_goals: payload.current_goals,
                 suggestions: payload.suggestions,
-                isLoading: false
+                isLoading: false,
+                custom_goal: ''
             });
         } catch (e) {
             alert(e)
@@ -121,8 +133,41 @@ class MainPage extends React.Component {
         )
     }
 
+    renderGoals(){
+        const selectGoals = (
+            <div>
+                <p>Select the next goal...</p>
+                <Input type="select" name="selectSuggestion" style={{height: 200}} multiple>
+                    {this.state.suggestions.map((sug, idx) =>
+                        <option onClick={()=>this.selectSuggestion(idx)}>
+                            {sug}
+                        </option>)
+                    }
+                </Input>
+                <small>Warning: this is a domain-free model. Some suggestion may not make sense.</small>
+                <Input
+                    type="text"
+                    value={this.state.custom_goal}
+                    name="custom_goal"
+                    onChange={this.update_custom_goal}
+                    placeholder="...or enter it here (can be anything)"
+                />
+            </div>
+        )
+
+        if (this.state.suggestions.length > 0) {
+            return selectGoals
+        } else {
+            return <div></div>
+        }
+    }
+
     update_title = (event) => {
         this.setState({quest_title: event.target.value});
+    };
+
+    update_custom_goal = (event) => {
+        this.setState({custom_goal: event.target.value});
     };
 
     selectSuggestion  = (item) => {
@@ -150,16 +195,7 @@ class MainPage extends React.Component {
                                 placeholder="Enter the quest title and click on the green button"
                             />
                             <br/>
-                            <div>
-                                <Input type="select" name="selectSuggestion" style={{height: 200}} multiple>
-                                    {this.state.suggestions.map((sug, idx) =>
-                                        <option onClick={()=>this.selectSuggestion(idx)}>
-                                            {sug}
-                                        </option>)
-                                    }
-                                </Input>
-                                <small>Warning: this is a domain-free model. Some suggestion may not make sense.</small>
-                            </div>
+                            {this.renderGoals()}
                         </div>
                     </FormGroup>
 
