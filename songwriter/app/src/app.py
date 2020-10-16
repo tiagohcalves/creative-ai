@@ -1,3 +1,5 @@
+import os
+
 import dash
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
@@ -152,4 +154,5 @@ def display_song2(song2):
     return ""
 
 
-app.run_server(host="0.0.0.0", debug=True, port=5000)
+port = os.environ.get('PORT', 5000)
+app.run_server(host="0.0.0.0", debug=True, port=port)
