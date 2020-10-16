@@ -133,3 +133,10 @@ quest-generator/models/
 quest-generator/app/template/
 quest-generator/app/web/models/model.pkl
 quest-generator/app/console/assets/
+
+songwriter/app/data/
+songwriter/data/
+songwriter/models/
+songwriter/src/text_autoencoders/data/
+songwriter/src/text_autoencoders/checkpoints/
+
