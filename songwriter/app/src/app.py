@@ -1,12 +1,17 @@
 import os
+import pickle
 
 import dash
+import dash_daq as daq
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
 import plotly.express as px
 from dash.dependencies import Input, Output
+
+from autoencoder.trained_model import TrainedAutoEncoder
+from song_interpolation import interpolate_songs
 
 ##########
 ## Config
@@ -24,6 +29,14 @@ song_list = list(zip(
     songs_df.apply(lambda x: f"{x['musica']} - ({x['artista']})", axis=1).values,
     songs_df["song_idx"].values
 ))
+
+auto_encoder = TrainedAutoEncoder("../data/")
+
+with open("../data/sentence_encodings.pkl", "rb") as infile:
+    sentence_encodings = pickle.load(infile)
+
+with open("../data/song_sentence_index.pkl", "rb") as infile:
+    song_sentence_indexes = pickle.load(infile)
 
 ########
 # APP
@@ -70,6 +83,29 @@ app.layout = dbc.Container(
                 )
             ]
         ),
+        dbc.Row([
+           html.H2("Lyrics Generator")
+        ]),
+        dbc.Row([
+            dbc.Col([
+                html.P("Select the weight of each song on the new one:"),
+                dcc.Slider(
+                    id='song_weight',
+                    min=0,
+                    max=1,
+                    step=0.05,
+                    value=0.5,
+                ),
+            ], width=8),
+            dbc.Col([
+                daq.BooleanSwitch(
+                    id="shuffle_song",
+                    on=True,
+                    label="Shuffle",
+                    labelPosition="top"
+                )
+            ])
+        ]),
         dbc.Row(
             [
                 dbc.Col([
@@ -84,7 +120,7 @@ app.layout = dbc.Container(
                         ]
                     ),
                     html.Div(id="song1_lyrics", style={'whiteSpace': 'pre-wrap'}),
-                ], width=5),
+                ], width=4),
                 dbc.Col([
                     html.Div(
                         [
@@ -97,7 +133,11 @@ app.layout = dbc.Container(
                         ]
                     ),
                     html.Div(id="song2_lyrics", style={'whiteSpace': 'pre-wrap'}),
-                ], width=5),
+                ], width=4),
+                dbc.Col([
+                    html.P("New song:"),
+                    html.Div(id="generated_lyrics", style={'whiteSpace': 'pre-wrap'}),
+                ], width=4),
             ]
         )
     ],
@@ -151,6 +191,25 @@ def display_song1(song1):
 def display_song2(song2):
     if song2:
         return songs_df[songs_df["song_idx"] == song2]["letra"].values[0]
+    return ""
+
+
+@app.callback(
+    Output("generated_lyrics", "children"),
+    [Input("song1", "value")] +
+    [Input("song2", "value")] +
+    [Input("song_weight", "value")] +
+    [Input("shuffle_song", "on")]
+)
+def display_song2(song1, song2, song_weight, shuffle_song):
+    if song1 and song2:
+        return interpolate_songs(
+            auto_encoder,
+            sentence_encodings,
+            song_sentence_indexes,
+            song1, song2,
+            1-song_weight, song_weight, shuffle_song
+        )
     return ""
 
 
