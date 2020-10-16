@@ -3,7 +3,7 @@
 heroku login
 heroku container:login
 
-APP_NAME="creative-ai"
+APP_NAME="song-vector-space"
 
 heroku container:push web --app ${APP_NAME}
 
