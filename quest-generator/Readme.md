@@ -12,7 +12,7 @@ A deep learning model to iteractively generate quests for adventure games.
 ## Structure
 
 This respository contains the code to:
-- Scrap Fandom for quests of Skyrim and The Witcher 3
+- Scrap Fandom for quests of [Skyrim](https://elderscrolls.fandom.com/wiki/Skyrim) and [The Witcher 3](https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt)
 - Some of the data used
 - Train the language model from a pre-trained one
 - Extract entities from the data (so we generate generic quests, instead of using names and locations from the games)
