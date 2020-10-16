@@ -17,12 +17,7 @@ from song_interpolation import interpolate_songs
 ## Config
 ##########
 
-songs_df = (
-    pd.read_csv("../data/songs_with_coordinates.csv", sep=";")[
-        ["song_idx", "x", "y", "artista", "musica", "letra"]
-    ].drop_duplicates()
-    .sort_values("artista")
-)
+songs_df = pd.read_csv("../data/songs_with_coordinates.csv", sep=";")
 
 all_artists = songs_df["artista"].unique().tolist()
 song_list = list(zip(
@@ -31,12 +26,6 @@ song_list = list(zip(
 ))
 
 auto_encoder = TrainedAutoEncoder("../data/")
-
-with open("../data/sentence_encodings.pkl", "rb") as infile:
-    sentence_encodings = pickle.load(infile)
-
-with open("../data/song_sentence_index.pkl", "rb") as infile:
-    song_sentence_indexes = pickle.load(infile)
 
 ########
 # APP
@@ -205,8 +194,6 @@ def display_song2(song1, song2, song_weight, shuffle_song):
     if song1 and song2:
         return interpolate_songs(
             auto_encoder,
-            sentence_encodings,
-            song_sentence_indexes,
             song1, song2,
             1-song_weight, song_weight, shuffle_song
         )
